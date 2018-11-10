@@ -1,2 +1,2 @@
-# vagabondianis-grav
+# vagabondians-grav
 Grav install on vagabondians.com
