@@ -13,12 +13,7 @@ We first met [Wes Nations][1] our second night in San Cristóbal de las Casas, C
 
 Jon and Wes had just returned from a [crazy trip][3] to the [Pacific coast of Mexico][4] in the state of Chiapas. Between that trip and a [previous one][5], in which they had perused the market of a small, nearby town[ looking for rat soup][6], they had wonderful stories to tell. And by wonderful I don't mean stories of hanging out at the pool of a pricey resort. I mean 'real' stories. Stories that involve strange food, foreign languages, storms, getting lost, and maybe the occasional hallucination. Fear. Adventure. They had everything we wanted.
 
-
-![](/user/images/2014/11/That-Wes-is-SO-Gonzo.jpg)
-
-    That Wes is SO Gonzo
-
-
+![Wes wearing women's sunglasses](/user/images/2014/11/That-Wes-is-SO-Gonzo.jpg)
 
 For those first several months in Chiapas I often ran into Wes on one of the main walking streets of San Cristobal, mostly coffee shops or restaurants, usually a sidewalk table. I can still picture him sitting in the sun, sipping a glass of white wine, tapping away on his iPad keyboard. I referred to his usual spot at the Rincon del Toro as the Wes Nations Chair.
 
@@ -30,13 +25,7 @@ One of my favorite stories that Wes shared was about a time when he was in Vietn
 
 I chuckle every time I think about that scene. Except now the laughter quickly turns to tears.
 
-
-  ![](/user/images/2014/11/WesAndGlennAndOthers.jpg)
-
-
-    Wes' favorite restaurant in San Cristobal
-
-
+![Wes, Glenn and friends at a restaurant in San Cristobal](/user/images/2014/11/WesAndGlennAndOthers.jpg)
 
 Both Wes and Jon moved on from Mexico and have traveled Central America and Southeast Asia while Bryn and I have remained somewhere between Guadalajara and Costa Rica. Our days of traveling far and wide are still in the future, scheduled to pick up in late 2017. We just missed hooking up with Wes in the summer of 2013 in Costa Rica, but finally reunited in San Cristobal in the fall of last year. We had a couple of different 'tamale night' dinners with him and other friends. And we hung out at the wine bar. And we swapped tales. And Wes had a visitor -- Jill.
 
@@ -50,25 +39,13 @@ And then, he was gone. A mutual friend broke the bad news, and Wes' Facebook pag
 
 I have to admit, I am both sad and angry at this news. I'm angry that good people sometimes leave our lives early. And I'm incredibly sad that this short list now includes Wes. I didn't know him that long, and I can't say that we were 'best' friends. But he made me laugh and that's something I truly value in a person. And when I think about it, he's probably the closest I've come to a true friend in these last several years. I guess I'm a bit of a homebody, a nerd, and I don't have that many people whom I consider 'close' outside of family. Don't ask me why, because I'm really not sure what makes me that way. But Wes definitely got in there, into that inner circle, and his passing has saddened me greatly.
 
-
-  ![](/user/images/2014/11/WesAndDrunkGlenn.jpg)
-
-
-    Wes and drunk Glenn
-
-
+![blurry photo of Wes and drunk Glenn](/user/images/2014/11/WesAndDrunkGlenn.jpg)
 
 But there is one thing which slightly takes the edge off of my sadness, and that is that Wes truly took to heart the idea that life is, in fact, short. Whether you are forced to leave early, or whether you pass the century mark like my great aunt Cynthia, this is it. One life. One brief time on this pale blue dot floating through the universe. And just like us, Wes decided that he didn't want to spend all of his brief time here spending fifty weeks a year at a job and two weeks a year on vacation. He didn't want to spend 95% of his life in one place. He yearned to travel to "... see as much of it as I can while it’s still here." And he did. And that's comforting.
 
 Because in the end, there are no guarantees. But in spite of that fact, which we all 'know' in our minds, most of us act like there *are* guarantees, like we have all the time in the world. And while it would surely be crazy to live in constant fear of the future, isn't it just as crazy to live in blissful ignorance? So do me a favor, and honor Wes' life and passing with a little introspection. If there is something you should do, or that you want to do, just stop right now and figure out how to make it happen. Maybe it's travel, maybe it's volunteer work, maybe it's just spending more time with loved ones. But figure out how to do it now, not later, because later may never come, and all stories end.
 
-
-  ![](/user/images/2014/11/WesAndGlenn.jpg)
-
-
-    Me and my friend, Wes Nations, a.k.a. Johnny Vagabond
-
-
+![Me and my friend, Wes Nations, a.k.a. Johnny Vagabond](/user/images/2014/11/WesAndGlenn.jpg)
 
 When *your* story ends, will it be one that others want to share? Will it inspire others to do likewise? If so, then your story will live on in the hearts and minds of others, and that makes you immortal. Wes was an inspiration, *and* a teller of stories, and that makes *him* immortal. His deeds and his words can reverberate down through time. I'm gutted that I will never again see him face to face, but I'm going to tell his stories, and our stories, again and again.
 

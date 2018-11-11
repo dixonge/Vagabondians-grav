@@ -7,7 +7,7 @@ image: enema.jpg
 dsq_thread_id: 3070695184
 category: Central America
 ---
-Warning: this post might get a bit graphic. You probably shouldn't read it while eating. You might not want to read it at all!ou know how old people can't seem to have a conversation without over-sharing about their bodily functions? Yeah, that's how this is going to go. Alternate titles for this post that I considered:
+Warning: this post might get a bit graphic. You probably shouldn't read it while eating. You might not want to read it at all! You know how old people can't seem to have a conversation without over-sharing about their bodily functions? Yeah, that's how this is going to go. Alternate titles for this post that I considered:
 
   * The Enema Within
   * Public Enema #1
@@ -31,6 +31,7 @@ And yet our bodies are still trying to operate based on a feast or famine scenar
 Now there are a few different ways to get calories into your body without strong flavors. The original method is to use sugar water, because for some reason the sweet taste doesn't trigger higher appetite. But it's a hassle, requires a lot of sugar, and Bryn is Type II diabetic on a small dose of Metformin. So sugar is out for her, and we like to do things together. The other option is to use extra light olive oil. In this case the calories all come from fat. After about a week we were both eating a lot less and losing weight. Unfortunately I missed a couple of warning signs and ended up in quite the predicament.
 
 And this is where it gets a bit graphic. Again, you've been warned!
+
 The warning signs that I missed were that my bowel movements became rather solid, more so than usual. On Wednesday morning I went ahead and took my normal four tablespoons of olive oil, but by the afternoon things came to a standstill. Lots of pressure, many attempts, no movement. I did a lot of googling for constipation solutions. In fact, I was well beyond constipation. I should have been googling 'fecal impaction.' Instead, we went to the pharmacy and got some laxative pills. I took one that evening. I didn't sleep well, with a couple of additional attempts in the middle of the night. Thursday morning I took another pill and observed that I was also unable to urinate! sent Bryn back to the pharmacy for suppositories. The first one lasted fifteen minutes, the second one stayed in place. Neither produced the desired results. I was approaching desperation! Bryn went on another errand and returned with small bottle and a dangerous looking nozzle attachment. It was an enema recommended by the pharmacist. It contained a small amount of sodium solution and 13.4 grams of Sorbitol.
 
 ![Behold, the Enema](/user/images/2013/08/EnemaInstructions.jpg)
@@ -39,7 +40,7 @@ Yes, sorbitol, the sweetener in items all over the grocery store. It's very prom
 
 I lasted almost five, and somewhere between the laxative pills, the suppositories and the enema it was just enough.
 
-In the end !a!) it was fairly painful, but at least things were moving. It took about thirty minutes before I became confident that I was out of the danger zone and would not, in fact, die. And then I peed for the first time in a long time and that was also quite a relief! I was exhausted but way more excited about basic bodily functions than normal. I still am.
+In the end (ha!) it was fairly painful, but at least things were moving. It took about thirty minutes before I became confident that I was out of the danger zone and would not, in fact, die. And then I peed for the first time in a long time and that was also quite a relief! I was exhausted but way more excited about basic bodily functions than normal. I still am.
 
 So, what are the lessons? There ought to be several things learned here, it seems, but I'm not sure what they all are yet. Here are my thoughts so far.
 

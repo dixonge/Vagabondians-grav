@@ -34,7 +34,7 @@ http://www.facebook.com/photo.php?fbid=269978146352346&#038;set=a.26997151635300
 
 http://www.facebook.com/photo.php?fbid=269976636352497&#038;set=a.269971516353009.88935.197146780302150&#038;type=1&#038;theater
 
-That by itself provides for quite a few interesting photographs. But every spring this town just goes completely nuts!hat is when they host the annual [](http://kineticgrandchampionship.com/" target="_blank">Kinetic Sculpture race. It started in 1969, when two artists built kontraptions with pedals and raced them down main street. It has since evolved into a three-day, 42-mile 'Triathlon of Art' in which people pedal and push kontraptions over roads, across sand and mud and through the water. Fans follow along on bicycles. It is truly an event where participation and fun are valued above just being first. I dearly want to see this event some day, but we are here at the wrong time of the year. We did, however, get to see the museum! This building houses many past kinetic race vehicles. I think the photos speak for themselves.
+That by itself provides for quite a few interesting photographs. But every spring this town just goes completely nuts!hat is when they host the annual [Kinetic Sculpture race.](http://kineticgrandchampionship.com/) It started in 1969, when two artists built kontraptions with pedals and raced them down main street. It has since evolved into a three-day, 42-mile 'Triathlon of Art' in which people pedal and push kontraptions over roads, across sand and mud and through the water. Fans follow along on bicycles. It is truly an event where participation and fun are valued above just being first. I dearly want to see this event some day, but we are here at the wrong time of the year. We did, however, get to see the museum! This building houses many past kinetic race vehicles. I think the photos speak for themselves.
 
 http://www.facebook.com/photo.php?fbid=269979746352186&#038;set=a.269971516353009.88935.197146780302150&#038;type=1&#038;theater
 
@@ -42,6 +42,6 @@ http://www.facebook.com/photo.php?fbid=269980536352107&#038;set=a.26997151635300
 
 http://www.facebook.com/photo.php?fbid=269981006352060&#038;set=a.269971516353009.88935.197146780302150&#038;type=1&#038;theater
 
-The race has now been replicated all over the world. See if you can ![](http://en.wikipedia.org/wiki/Kinetic_sculpture_race" target="_blank">find one near you!
+The race has now been replicated all over the world. See if you can! [Find one near you!](http://en.wikipedia.org/wiki/Kinetic_sculpture_race)
 
 http://www.facebook.com/media/set/?set=a.269971516353009.88935.197146780302150&#038;type=1
