@@ -1,5 +1,4 @@
 ---
-#cover: header.jpg  this is optional...
 sitemap:
     changefreq: weekly
     priority: 1.03
@@ -15,3 +14,4 @@ feed:
     limit: 3
 pagination: true
 ---
+
