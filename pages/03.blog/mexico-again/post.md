@@ -8,7 +8,8 @@ category: Six Months
 tags:  New Mexico
 ---
 As we planned our trip out and selected places to stop and visit, New Mexico received several pins on the map.  Most were in the southern or western parts of the state, but I think both of us regarded New Mexico as the true start of our trip, new territory to be explored.  And then we began talking about places we had been before, and as it turns out we're not exactly strangers to the land of enchantment!
-I'm pretty sure that I was here first.  When I was two or three my parents let me come along to some church meetings at Glorieta.  Just a year or two later, Bryn accompanied her mom to New Mexico.  She remembers meeting Chief Sunny Skies.  ! thought this sounded like someone playing a good joke on the tourists, but evidently there was such a person!)  In 1970 Bryn and her dad camped out at Alamogordo Reservoir (now known as Sumner Lake State Park).  Why someone from Dallas would pick that spot for a vacation is beyond me though...
+
+I'm pretty sure that I was here first.  When I was two or three my parents let me come along to some church meetings at Glorieta.  Just a year or two later, Bryn accompanied her mom to New Mexico.  She remembers meeting Chief Sunny Skies.  (I thought this sounded like someone playing a good joke on the tourists, but evidently there was such a person!)  In 1970 Bryn and her dad camped out at Alamogordo Reservoir (now known as Sumner Lake State Park).  Why someone from Dallas would pick that spot for a vacation is beyond me though...
 
 In the late 1970's I traveled to Carlsbad for a band competition and saw several classmates from my elementary and Junior High days in west Texas.  And at least once at a time which I can not recall I visited the caverns there.  Finally, in 1980 I spent the summer in Glorieta.  And that is the story of our prior history with New Mexico before Bryn and I met in 1989.
 

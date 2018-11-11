@@ -9,7 +9,7 @@ category: Six Months
 tags:  mount st. helens
   - washington
 ---
-Mount St. Helens was not on my original list of things to do or see in Washington. But as things turned out, it was a good stopping point on the way to Seattle. So hey, why not, right? I mean, it's a huge frickin' volcano!o we parked for a couple of nights at the [](http://www.silvercovervresort.com/" target="_blank">Silver Cove RV Resort and took a day trip in to the Mount St. Helens National Volcanic Monument.
+Mount St. Helens was not on my original list of things to do or see in Washington. But as things turned out, it was a good stopping point on the way to Seattle. So hey, why not, right? I mean, it's a huge frickin' volcano!o we parked for a couple of nights at the [Silver Cove RV Resort](http://www.silvercovervresort.com/) and took a day trip in to the Mount St. Helens National Volcanic Monument.
 
 http://www.facebook.com/photo.php?fbid=271218176228343&#038;set=a.271218136228347.89161.197146780302150&#038;type=1&#038;theater
 
@@ -30,10 +30,11 @@ On our visit, we watched the movie at the visitors center and took a guided tour
 http://www.facebook.com/photo.php?fbid=271218612894966&#038;set=a.271218136228347.89161.197146780302150&#038;type=1&#038;theater
 
 We hiked the trail to a better view of Spirit Lake, then returned to our car. Like so many things on this trip, you simply can not comprehend the scale of the devastation and the beauty of the mountain without seeing it in person. We really enjoyed this little side trip!
+
 http://www.facebook.com/photo.php?fbid=271218769561617&#038;set=a.271218136228347.89161.197146780302150&#038;type=1&#038;theater
 
 http://www.facebook.com/photo.php?fbid=271218919561602&#038;set=a.271218136228347.89161.197146780302150&#038;type=1&#038;theater
 
-For a wonderful overview and lots of pictures of the Mt. St. Helens eruption and victims and survivors, check out the web site of the ![](http://www.columbian.com/news/mount-st-helens/" target="_blank">Daily Columbian.
+For a wonderful overview and lots of pictures of the Mt. St. Helens eruption and victims and survivors, check out the web site of the [Daily Columbian](http://www.columbian.com/news/mount-st-helens/)
 
 http://www.facebook.com/media/set/?set=a.271218136228347.89161.197146780302150&#038;type=1

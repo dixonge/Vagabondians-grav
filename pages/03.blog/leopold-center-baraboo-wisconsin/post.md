@@ -35,19 +35,6 @@ We thoroughly enjoyed our time there. I could write forever and never describe t
 
 Here is the full album of photos:
 
-<table style="width: 194px;">
-  <tr>
-    <td style="height: 194px; background: url![](https://picasaweb.google.com/s/c/transparent_album_background.gif')
-    ![](https://picasaweb.google.com/dixonge/TheLeopoldCenter?authuser=0&feat=embedwebsite)
-    ![](https://lh5.googleusercontent.com/-_Dt7pg-glMw/Tq6EQAF7YmE/AAAAAAAACtU/eOEhzY75_oM/s160-c/TheLeopoldCenter.jpg)
-    </td>
-  </tr>
-
-  <tr>
-​    <td style="text-align: center; font-family: arial,sans-serif; font-size: 11px;">
-​      <a  href="https://picasaweb.google.com/dixonge/TheLeopoldCenter?authuser=0&feat=embedwebsite">The Leopold Center
-​    </td>
-  </tr>
-</table>
+[COMING SOON]
 
 [2]: http://www.sierraclub.org/sierra/200101/leopold.asp
