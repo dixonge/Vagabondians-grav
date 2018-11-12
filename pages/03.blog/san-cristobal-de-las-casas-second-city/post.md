@@ -11,31 +11,9 @@ Living in San Cristobal for almost two months brings up many interesting contras
 
 ![](http://farm9.staticflickr.com/8302/8003385087_d4fc4aacd5_n.jpg)
 
-<br /> 
-
-<br /> 
-
-<br /> 
-
-<br /> 
-
-<br /> 
-
 I begin to realize that, here in the state of Chiapas, I am walking around as a fabulously wealthy person among the poorest people in Mexico .  I am as guilty as any vacation tourist of brushing off the vendors, who are trying to support their families, and sometimes treating them as if they are flies on the table.  I walk past maimed or deformed beggars and pretend not to see.  It stings me now to do that.  In America that’s what we do, thinking that those beggars should just go to a mission or a church and get a hot meal and fresh clothing -- there are programs, get off the street ya lazy good-for-nothing -- get a job.  Here there isn’t much of that kind of help.  There is officially universal health care, but not every community has a clinic, and not every Mexican, especially the indigenous people, trust the government. The welfare program gives poor women a monthly stipend for food, but none of this would help a disabled man gain any sort of employment. What if that guy was my dad all alone and begging?  What if that was my mother or my sister over there huddled under a little blanket holding out a cup in the chilly drizzle?
 
 ![](http://farm9.staticflickr.com/8033/8003358317_4dca166e5c_n.jpg)
-
-<br /> 
-
-<br /> 
-
-<br /> 
-
-<br /> 
-
-<br /> 
-
-<br /> 
 
 I see how the indigenous Maya people live here, in villages of small cinder block one- or two-room shacks with metal roofs, cooking on a little open fire inside and breathing the smoke; some have an open-slat room for cooking. They are the hardest-working people I’ve ever seen.  They begin working as soon as they are old enough to be responsible to do something, age 4 or 5, and they work until they die or get maimed or totally disabled and have to beg.  It’s a common sight out in the countryside to see children and old women walking barefoot up the mountain carrying half their weight in firewood on their backs, supported with a strap around their foreheads.  The young girls herd sheep, staking each animal in an area to graze every day and bringing them back.  All the girls and women spin yarn, embroider, weave beautiful things for sale, cook, clean, and the men tend the crops and any large work animals of their village.  
 
@@ -49,29 +27,10 @@ There are a lot of homeless street kids who are abandoned by their parents becau
 
 ![](http://farm9.staticflickr.com/8179/8003434993_db2ba11c65_n.jpg)
 
-<br /> 
-
-<br /> 
-
-<br /> 
-
-<br /> 
-
-<br /> 
-
-<br /> 
-
 So I have begun to try to be nice and friendly and speak directly to the vendors and say, "No gracias, Senora," and smile and look them in the eye like they matter as people -- because they do.  I see them constantly treated like pesky insects.  I can’t buy anything unless I want to run out of money since we aren’t making much right now.  If I bought one small thing from everyone I was approached by daily, I would have enough to plaster the walls and floors and fill all the corners to the ceilings with trinkets within a very short time.  Should I give every one a peso?  Should I pick some and give them 10 pesos?  Should I find a place that benefits these people to volunteer time while I’m here?  I’m thinking that would be best, and I can learn about the culture and maybe help out some and also get some insight as to doling out pesos from my “fabulous personal wealth.”  
 
 The politics are old and complicated, and the United States has had an ugly hand in all this --  and all around the world.  The more I learn the worse I feel about how my country has handled foreign policy over the last hundred years, not just the last 20.  Our government does horrible, unspeakable things without the knowledge or permission of the citizenry.  I dare say if Americans knew what has been and is being done in our name, we would all be positively outraged because we are basically good people.  But we listen to the rhetoric about being the shining light on the hill, the peacekeepers, the benevolent ones, partners to other countries to make this a better world of freedom, and we don’t examine too closely what is actually the case.  I am outraged and I feel completely helpless and hopeless in the area of our out-of-control bully government, but I’ll leave this subject for another time and place.
 
 For now, enjoy these other pictures from San Cristobal!
-!lickr-flickr tag="second city"]
 
- ![]1]: http://www.flickr.com/photos/48315294@N00/8003385087 "View 'http://farm9.staticflickr.com/8302/8003385087_d4fc4aacd5_n.jpg' on Flickr.com"
- ![]2]: http://www.flickr.com/photos/48315294@N00/8003364534 "View 'http://farm9.staticflickr.com/8295/8003364534_fd844c38ca_n.jpg' on Flickr.com"
- ![]3]: http://www.flickr.com/photos/48315294@N00/8003358317 "View 'http://farm9.staticflickr.com/8033/8003358317_4dca166e5c_n.jpg' on Flickr.com"
- ![]4]: http://www.flickr.com/photos/48315294@N00/8003392412 "View 'http://farm9.staticflickr.com/8173/8003392412_0a4cbe7bbb_n.jpg' on Flickr.com"
- ![]5]: http://www.flickr.com/photos/48315294@N00/8003542803 "View 'Zincanatan's governor's house' on Flickr.com"
- ![]6]: http://www.flickr.com/photos/48315294@N00/8003434993 "View 'http://farm9.staticflickr.com/8179/8003434993_db2ba11c65_n.jpg' on Flickr.com"
- ![]7]: http://www.flickr.com/photos/48315294@N00/8003436656 "View 'http://farm9.staticflickr.com/8033/8003436656_6e72b732c8_n.jpg' on Flickr.com"
+[slickr-flickr tag="second city"]

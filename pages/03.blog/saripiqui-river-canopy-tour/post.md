@@ -7,10 +7,11 @@ image: sarapiqui.jpg
 dsq_thread_id: 3189151516
 category: Central America
 ---
-
 In a last-gasp effort to see something of the beautiful country of Costa Rica, and with a deal on a tour from a friend, I ventured out alone while Glenn continued to recover from his minor back injury.
 
-[![Nice orchid](http://farm6.staticflickr.com/5448/9497546273_a2b8787d9a_z.jpg)](http://www.flickr.com/photos/48315294@N00/9497546273) While being driven out of town alone in a large tour van, via my splotchy Spanish, I finally understood he was taking me to meet another van.  Eventually by the side of the road there was a driver named Carlos and a personable, knowledgeable English/Spanish guide, also named Carlos, and a nice Brazilian couple, and we ventured forth.  Conversation went pretty well between Portuguese, Spanish, and English, and the drive was beautiful as Carlos pointed out the different ecological zones, rain forest, cloud forest, and over the continental divide.
+[![Nice orchid](http://farm6.staticflickr.com/5448/9497546273_a2b8787d9a_z.jpg)](http://www.flickr.com/photos/48315294@N00/9497546273) 
+
+While being driven out of town alone in a large tour van, via my splotchy Spanish, I finally understood he was taking me to meet another van.  Eventually by the side of the road there was a driver named Carlos and a personable, knowledgeable English/Spanish guide, also named Carlos, and a nice Brazilian couple, and we ventured forth.  Conversation went pretty well between Portuguese, Spanish, and English, and the drive was beautiful as Carlos pointed out the different ecological zones, rain forest, cloud forest, and over the continental divide.
 
 ![](http://farm8.staticflickr.com/7425/9497413937_a3104f4e48_z.jpg)
 
@@ -40,4 +41,4 @@ Lunch was typical Costa Rican fare: beans and rice/rice and beans, some pieces o
 
 We got back on the road and experienced an absolute downpour for about half the drive back, up from the river into the cloud forest and back down into drenched San Jose. Enjoy the slide show!
 
-<a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/djtrashy/albums/72157635066798807" title="Saripiqui Canopy Tour"><img src="https://farm3.staticflickr.com/2866/9500179416_f9af9d8177_b.jpg" width="1024" height="768" alt="Saripiqui Canopy Tour"></a><script async src="//embedr.flickr.com/client-code.js" charset="utf-8"></script>
+[![](https://farm3.staticflickr.com/2866/9500179416_f9af9d8177_b.jpg)](https://www.flickr.com/photos/djtrashy/albums/72157635066798807)

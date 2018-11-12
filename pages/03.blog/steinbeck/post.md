@@ -6,6 +6,4 @@ slug: steinbeck
 image: from-steinbeck.jpg
 category: News
 ---
-![People don't take trips -- trips take people.][1]
-
- ![]1]: /2014/01/peopledonttaketrips.jpg
+![People don't take trips -- trips take people.](/user/images/2014/01/peopledonttaketrips.jpg)

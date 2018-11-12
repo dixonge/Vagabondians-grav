@@ -24,4 +24,4 @@ We took a couple of long walks around the city, including all the way to the lit
 
 Still a pretty town, still not as enjoyable as Guanajuato for us. For one thing, it seemed as if gringos were everywhere. Back in 2008 we noted that we rarely saw any at all. I'm not sure what changed. Either the gringos are only out and about on certain days, or at certain times of the year, or we were just so overwhelmed by it all back then that we simply missed them. Another difference is the makeup of the two towns. The old part of San Miguel is all designed around shopping and eating for gringo expats and rich Mexicans. The old part of Guanajuato has less trendy shops and more local small-town businesses and lots of students everywhere, and very few gringos. Evidently we like being tourists in areas that don't really cater to tourists so much. Strange, I know.
 
-But don't let us stop you from visiting!ust keep it in mind.
+But don't let us stop you from visiting! Just keep it in mind.
