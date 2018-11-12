@@ -11,7 +11,7 @@ THE FOOD IS DIFFERENT HERE
 
 Not only is shopping a bit different -- unless you do the gringo thing and buy all your stuff at Super Lake or Walmart -- but the food itself is different.
 
-“We’ll never sell a fat yellow chicken.”  Ad words from one of the big chicken mega processors in the US.  When I got here and saw all the yellow chicken for sale in the stores and the markets, I was appalled -- I’m talking rubber-chicken-paint yellow.  I didn’t know what to make of it.  Yuck![] I refused to buy any chicken for the first few weeks until I found out that the yellow is on purpose and caused by marigold-type flowers in their diet.  Okay, much better -- whew!  The chicken here is actually very tasty and good.
+“We’ll never sell a fat yellow chicken.”  Ad words from one of the big chicken mega processors in the US.  When I got here and saw all the yellow chicken for sale in the stores and the markets, I was appalled -- I’m talking rubber-chicken-paint yellow.  I didn’t know what to make of it.  Yuck! I refused to buy any chicken for the first few weeks until I found out that the yellow is on purpose and caused by marigold-type flowers in their diet.  Okay, much better -- whew!  The chicken here is actually very tasty and good.
 
 ![](http://media.tumblr.com/tumblr_m64tcdq66k1qzu24w.jpg)
 
@@ -25,7 +25,9 @@ At the organic market, you can get lettuces and other salad leaves are already w
 
 As a side note, I’m not sure why Americans don’t disinfect things like spinach and lettuce now, since there have been so many E. coli outbreaks in recent years.  Water alone doesn’t kill it.
 
-Hamburger, either at the carniceria or the grocery store, has very little fat.  I used to make bigger, thicker patties because I knew they would cook down quite a bit.  Here, they stay about the same size, and there’s very little fat to drain.  So our first hamburger patties were HUGE.  This is how much fat wasn't in the pan when they were done![] ![](http://media.tumblr.com/tumblr_m65m4rBdZ01qzu24w.png" alt="" width="200" />
+Hamburger, either at the carniceria or the grocery store, has very little fat.  I used to make bigger, thicker patties because I knew they would cook down quite a bit.  Here, they stay about the same size, and there’s very little fat to drain.  So our first hamburger patties were HUGE.  This is how much fat wasn't in the pan when they were done!
+
+![](http://media.tumblr.com/tumblr_m65m4rBdZ01qzu24w.png)
 
 The most popular meat cuts in the States aren’t really sold down here.  Unless you go to a gringo boutique carniceria, you won’t find a roast or a brisket.  They have some steaks and hamburger and bistek.  Bistek is very thin, like about ¼ inch or a little more.  I tried cooking it fast in a cast iron skillet, but that’s just not good.  We don’t buy the regular steaks since we don’t have a grill here, and I don’t like pan steak.
 
@@ -40,26 +42,33 @@ The other thing about eggs, possibly because they’re not refrigerated, is that
 ![](http://media.tumblr.com/tumblr_m65kn0DnfJ1qzu24w.jpg)
 
 And then there’s BACON!
-Bacon, the meat everyone loves to hate -- unless you’re on a low-carb diet ![](http://v2j.vagabondians.com/wp-includ/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />  At the carniceria that we go to they slice it up on the spot, whatever thickness desired.  We’ve also bought the FUD brand bacon at the grocery store.  (Really?  If you have to name it “food,” is it?  It’s actually pretty good bacon.)
+
+Bacon, the meat everyone loves to hate -- unless you’re on a low-carb diet 
+
+At the carniceria that we go to they slice it up on the spot, whatever thickness desired.  We’ve also bought the FUD brand bacon at the grocery store.  (Really?  If you have to name it “food,” is it?  It’s actually pretty good bacon.)
 
 Both the packaged and fresh bacon take *for-evver* to cook.  I have no idea why.  
-And there’s hardly any fat left behind in the pan.  If you like to save and use bacon drippings, here you’re going to have to cook a LOT of bacon.  The flavor is milder too -- not as addicting.  !mmmm, what do they use to enhance the flavor in the States?  Flavor addiction in all processed food is bi-i-i-ig business.)
 
-![](http://media.tumblr.com/tumblr_m65kqwKfZt1qzu24w.jpg)  
+And there’s hardly any fat left behind in the pan.  If you like to save and use bacon drippings, here you’re going to have to cook a LOT of bacon.  The flavor is milder too -- not as addicting.  (mmmmm, what do they use to enhance the flavor in the States?  Flavor addiction in all processed food is bi-i-i-ig business.)
+
+![](http://media.tumblr.com/tumblr_m65kqwKfZt1qzu24w.jpg)
+
 This is an entire package of bacon chopped and cooked, and no fat has been removed!
 Speaking of bacon --
 
-Carne en su jugo !eat in its juice)!
+Carne en su jugo (meat in its juice)!
 
-This is a wonderful Mexican stew, of sorts.  The first time I saw a sign for this dish, I thought it said “meat in your juice” and pictured a frosty glass of orange with a hunk of meat in it -- YISH![] Ha!
+This is a wonderful Mexican stew, of sorts.  The first time I saw a sign for this dish, I thought it said “meat in your juice” and pictured a frosty glass of orange with a hunk of meat in it -- YISH! Ha!
 
 At Super Lake grocery, they had some free samples of a jarred brand and so I tried it.  It was delicious.  I almost bought a jar, but our housekeeper, Lorena, had said she was going to teach me that one the following week.  I hired her to teach me a recipe a week while we’re here.  Smartest move ever!
+
 So...on to the recipe!
+
 CARNE EN SU JUGO
 
-15 small tomatillos !reen tomato-like veggies with a papery outer shell and sticky skin, remove the papery shells and wash)  
+15 small tomatillos (green tomato-like veggies with a papery outer shell and sticky skin, remove the papery shells and wash)  
 ½ lb bacon  
-2 lb “bistek” -- ¼” thick skirt steak  ![]** see note below!)  
+2 lb “bistek” -- ¼” thick skirt steak  (** see note below!)  
 2-3 medium-large cloves of garlic  
 ½ -- 1 serrano chili pepper  
 1 onion fairly finely diced  
@@ -67,13 +76,13 @@ cilantro finely chopped
 
 Add a can of beans, white or your favorite, if you choose
 
-limones !ey limes -- or regular limes) for squeezing onto your serving to taste
+limones (key limes -- or regular limes) for squeezing onto your serving to taste
 
 ![](http://media.tumblr.com/tumblr_m65memony01qzu24w.jpg)
 
 Put the tomatillos in a pan of water and boil the heck out of them for about 10-15 minutes, till they are very-ripe-soft, drain and let cool.
 
-Chop the bacon into ¾” pieces and cook it in a good-sized pot till done but not crisp at all.  Mexican bacon, it’s best to add some oil to the pan to cook it.  !merican bacon, you’ll probably want to drain out most of the fat after you get it cooked and you might need closer to a whole pound.  Can’t have too much bacon, right?)
+Chop the bacon into ¾” pieces and cook it in a good-sized pot till done but not crisp at all.  Mexican bacon, it’s best to add some oil to the pan to cook it.  (American bacon, you’ll probably want to drain out most of the fat after you get it cooked and you might need closer to a whole pound.  Can’t have too much bacon, right?)
 
 While the bacon cooks, chop the bistek into bite-sized pieces.  When the bacon is ready, add the chopped meat or hamburger and cook it till done.  Salt the meat, maybe a half teaspoon plus/minus.
 
@@ -81,7 +90,7 @@ While the meat is cooking, put the cooled tomatillos into a blender, add several
 
 When the meat is cooked, pour the blender contents into the pot.  Cover and simmer/boil for 20 minutes or so.  Check the flavor and adjust if needed.  You may need to boil off some water or add more, depending on your preferences.  It should be fairly soupy.
 
-While it’s cooking, chop finely the onion and more cilantro.  These will be added raw to each serving to taste, and as a pretty garnish.  You can add a few little pieces of red tomato to make it pretty, and it adds to the flavor too.  Limones are squeezed on to taste ! like it as is, without the limon, personally)
+While it’s cooking, chop finely the onion and more cilantro.  These will be added raw to each serving to taste, and as a pretty garnish.  You can add a few little pieces of red tomato to make it pretty, and it adds to the flavor too.  Limones are squeezed on to taste (I like it as is, without the limon, personally)
 
 Serve in a bowl with a spoon and tortillas for sopping.  Or if you make it thicker, you can spoon it into your tortillas as a wet taco.
 
@@ -89,4 +98,4 @@ TIP:  Flour tortillas from the store are so much tastier if you “toast” the
 
 ** This dish is also good with hamburger in place of the bistek, and it doesn’t have to cook as long.  Just let the flavors meld.
 
-Salud![]-- to your health!<strong id="internal-source-marker_0.4579134329687804"><br /> </strong>
+Salud -- to your health!

@@ -30,7 +30,7 @@ A planner lives like no one else now so they can live like no one else later.  
 
 Read a lot.  Listen.  Observe.  Think.  Then act.  Action is the most important.  And act deliberately or circumstances and other people will choose the path for you and steal your one precious life from you.
 
-“let them call you crazy  
+> “let them call you crazy  
 Because what they call crazy…  
 …is what they’re afraid to do themselves.  
 And I am certain  
@@ -40,10 +40,9 @@ The crazies…
 win.”    -- Ash Ambirge, themiddlefingerproject.com
 
 Next step:  
-Download and read The Flinch:  
-!ttp://www.amazon.com/The-Flinch-ebook/dp/B0062Q7S3S/ref=sr\_1\_1?s=digital-text&ie=UTF8&qid=1338741905&sr=1-1][1]
+
+Download and read [The Flinch](http://www.amazon.com/The-Flinch-ebook/dp/B0062Q7S3S/ref=sr\_1\_1?s=digital-text&ie=UTF8&qid=1338741905&sr=1-1)
 
 “It’s so important they refuse to charge for it.”  It’s free.  This young man is very smart -- and you'll be smarter where it counts if you read this.
 
 Go forth and refuse to flinch!
- ![]1]: http://www.amazon.com/The-Flinch-ebook/dp/B0062Q7S3S/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1338741905&sr=1-1

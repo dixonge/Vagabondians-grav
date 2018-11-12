@@ -8,11 +8,12 @@ category: Six Months
 tags:  oregon
 ---
 On August 5th we left the California Redwoods behind and drove up the Oregon Coast. There were no national parks or big tourist draws, just nice scenery and lots of ocean views. We drove through Gold Beach and Port Orford. At Coos Bay we stayed one night at the Mill Casino RV Park and robbed that casino of $17.50 in winnings!
+
 http://www.facebook.com/photo.php?fbid=279066408776853&#038;set=a.279066288776865.90807.197146780302150&#038;type=1&#038;theater
 
 The next day we soldiered north again, hugging the coastline on Hwy. 101. We stopped for a couple of nights at Coyote Rock RV park behind Siletz Bay, on the river. We were invited to get in on the fresh crab action as someone knew someone down at Depoe Bay who had just hauled in a catch, but we declined. Besides, we have nothing to boil crab in, and these were big crabs!ungeness. The next day we drove to Depoe Bay and had some awesome clam chowder at the Bay Walk Cafe. Actually, we ate their twice. The first time we got a small cup to go, then continued strolling the street. Later, after visiting the whale watching center and the rest of the shops, we stopped back by for lunch which included a nice bowl of the chowder. Delicious!
 
-!ay Walk Cafe in Depoe Bay][1]
+[Bay Walk Cafe in Depoe Bay][1]
 
 http://www.facebook.com/photo.php?fbid=279067005443460&#038;set=a.279066288776865.90807.197146780302150&#038;type=1&#038;theater
 
@@ -20,7 +21,7 @@ We also watched someone processing buckets of crabs. He had it down to a science
 
 http://www.facebook.com/photo.php?fbid=279341648749329&#038;set=a.279066288776865.90807.197146780302150&#038;type=1&#038;theater
 
-Later that day we drove back south of town and stopped at the Devil's Punch Bowl State Park. This geographic feature is just a large hole in the rocks which empties at low tide but fills with angry, swirling water at high tide. There are several small gift shops and a winery here. The !inery's][2] claim to fame is that all of their wines are fermented in open-top fermenters, with access to the sea salt air. Bryn did a tasting and liked their wines just fine!
+Later that day we drove back south of town and stopped at the Devil's Punch Bowl State Park. This geographic feature is just a large hole in the rocks which empties at low tide but fills with angry, swirling water at high tide. There are several small gift shops and a winery here. The [winery's][2] claim to fame is that all of their wines are fermented in open-top fermenters, with access to the sea salt air. Bryn did a tasting and liked their wines just fine!
 
 http://www.facebook.com/photo.php?fbid=279342168749277&#038;set=a.279066288776865.90807.197146780302150&#038;type=1&#038;theater
 
@@ -38,5 +39,5 @@ The next day we said goodbye to the Pacific Ocean and headed east, back to civil
 
 http://www.facebook.com/media/set/?set=a.279066288776865.90807.197146780302150&#038;type=1
 
- ![]1]: http://youtu.be/TPXupV23zL8
- ![]2]: http://www.dutchmanwinery.com/index.html
+[1]: http://youtu.be/TPXupV23zL8
+[2]: http://www.dutchmanwinery.com/index.html

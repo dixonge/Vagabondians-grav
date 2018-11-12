@@ -5,7 +5,8 @@ author: Glenn
 slug: on-the-road-again
 image: teaser-mexico.jpg
 category: Mexico
-tags:  chapala
+tags:
+  - chapala
   - guadalajara
   - Guanajuato
   - leon
@@ -15,16 +16,17 @@ tags:  chapala
 
 And now, at long last, the next phase of our journey begins.
 
-The last few weeks have been busy. Our homeowner dropped in for a two-week stay and initiated a flurry of activity!e ran around getting automobile repair estimates and looking for replacement kitchen sinks and cleaning the house in preparation for the new property managers to take pictures. We also showed the home to a potential renter and took both dogs and both cats to the vet. In addition to that, we picked up some utensils and cookware and a portable electric stove top. We also got the house ready for the new housesitter and went over all of the details with her.
+The last few weeks have been busy. Our homeowner dropped in for a two-week stay and initiated a flurry of activity! We ran around getting automobile repair estimates and looking for replacement kitchen sinks and cleaning the house in preparation for the new property managers to take pictures. We also showed the home to a potential renter and took both dogs and both cats to the vet. In addition to that, we picked up some utensils and cookware and a portable electric stove top. We also got the house ready for the new housesitter and went over all of the details with her.
 
 Whew!
+
 ![](https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash4/376442_10151896099480437_403310213_n.jpg)
 
 So Tuesday morning we had a driver pick us up and deliver us to the main bus station in eastern Guadalajara, near Tonala. We rode in amazing comfort on a Primera Plus coach and stopped only once. The whole trip lasted just over four hours. The seats lean back twice as far as on the standard economy fare airline seat, and they have footrests that fold down from the seat in front. Lights and air vents are overhead. Each seat has its own audio jack where you can listen to one of several stations or just pick up the audio from the on-board movie. I watched Transformers 2 in Spanish. Interesting. There are also men's and women's restrooms in the back.
 
 ![](https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash3/600382_10151896100380437_1848917125_n.jpg)
 
-As we stopped at Leon it began to rain, but by the time we were halfway to Guanajuato the skies had cleared. At one point our bus was selected !andomly?) for an inspection by some nice people from the Mexican army. The first one on board announced the inspection and seemed to generally calm everyone. He then walked through and inspected everyone's bags and purses. I presume he was looking for weapons, drugs and/or explosives. And just in case you thought his calm demeanor was a sign of weakness, a second soldier stepped into the doorway and watched while resting his hand on the grip of his H&K G3 Battle Rifle. That's a big gun!
+As we stopped at Leon it began to rain, but by the time we were halfway to Guanajuato the skies had cleared. At one point our bus was selected (randomly?) for an inspection by some nice people from the Mexican army. The first one on board announced the inspection and seemed to generally calm everyone. He then walked through and inspected everyone's bags and purses. I presume he was looking for weapons, drugs and/or explosives. And just in case you thought his calm demeanor was a sign of weakness, a second soldier stepped into the doorway and watched while resting his hand on the grip of his H&K G3 Battle Rifle. That's a big gun!
 
 ![](https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash4/306606_10151897024320437_59276117_n.jpg)
 
@@ -37,6 +39,7 @@ Very soon we were on our way again and we arrived in Guanajuato only slightly be
 ![](https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-snc7/376323_10151897024460437_1622543814_n.jpg)
 
 We strolled the city a couple of times, mainly the area around the Jardin de la Union. We walked by Casa de Pita, the B&B we used on our first visit back in 2008. We bought a coca light and an agua at the nearby tienda just for old times sake. We had a decent dinner at a restaurant, a latte at a local coffee shop and picked up some drinks and snacks at an Oxxo convenience store. All set for the night!
+
 ![](https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash3/530797_10151896104440437_57620121_n.jpg)
 
 ![](https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-snc6/250820_10151896102585437_88422294_n.jpg)
@@ -45,4 +48,4 @@ It is the rainy season in this part of Mexico. It starts in mid-June and ends la
 
 More pictures soon, and most will be added to Facebook. You can see the whole album here:
 
-![](Guanajuato" href="https://www.facebook.com/media/set/?set=a.10151896097500437.874894.648515436&type=1&l=8d63902558" target="_blank)]>Guanajuato
+[Guanajuato](https://www.facebook.com/media/set/?set=a.10151896097500437.874894.648515436&type=1&l=8d63902558)

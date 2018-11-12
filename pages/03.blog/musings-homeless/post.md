@@ -12,7 +12,7 @@ Homelessness on purpose is a pretty freaky feeling.  We, like you, have always 
 
 This is not where we want to be in 10+ years when we retire.
 
-We don't want to be tied down anymore with debt and a mortgage.  We had been thinking about retirement for a few years and what we wanted to do "someday."  We got the freedom bug and the travel bug, and all we'd collected over our 20 years together started to seem a huge anchor around our necks choking the life out of us. We were getting emails at work about people that retired 1, 2, 3 years ago and now they're dead -- come to the funeral.  Is that our future?![]!  We have living to do!
+We don't want to be tied down anymore with debt and a mortgage.  We had been thinking about retirement for a few years and what we wanted to do "someday."  We got the freedom bug and the travel bug, and all we'd collected over our 20 years together started to seem a huge anchor around our necks choking the life out of us. We were getting emails at work about people that retired 1, 2, 3 years ago and now they're dead -- come to the funeral.  Is that our future?!!  We have living to do!
 
 Reading about others that went before us into the world at large inspired us to take action to get out of the "American Dream" system.  We took drastic measures to kill off all our debt and stuck to it.  We started selling off all our stuff.  Hard watching all my beautiful stuff that I paid good money for going out the door for pennies on the dollar, but we had a dream.  I was telling everyone about how we were leaving so that I couldn't chicken out.  I didn't want to be all talk and no do.
 
@@ -21,4 +21,5 @@ Finally the day came when we left the world of having an address where we live. 
 Now I have pictures of all my stuff if I ever want to look at them -- so far, not. Seems that having a lot of stuff is just what we do to give ourselves the illusion of permanency in the world or having an anchor. I haven't regretted any of this except for maybe a few kitchen items that we had to replace with cheaper versions when we got our travel trailer.  That's it.
 
 I LOVE BEING HOMELESS!
+
 I can make much less money since there's no bills and no maintenance, other than our vehicle that will soon be gone.  Breathing is easier without that "load on my shoulders." Downsizing to two backpacks is the next step as we head for adventure in the world outside our previous experience.  New languages to learn, new food to try, new people and cultures to explore, new friends, new vistas, new sunsets.  Nope, not regretting it at all, thank-you-very-much.

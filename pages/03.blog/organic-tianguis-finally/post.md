@@ -1,11 +1,9 @@
 ---
-title: 'The Organic Tianguis -- we finally made it![]'
+title: 'The Organic Tianguis -- we finally made it!'
 date: '05/10/2014 10:00am'
 author: Bryn
 slug: organic-tianguis-finally
 image: tianguis.jpg
-Layout:
-  - default
 dsq_thread_id: 3165839034
 category: Mexico
 ---
@@ -21,16 +19,14 @@ But today we finally made it to the organic tianguis housed twice weekly in a bu
 
 At this little market, people make fresh breads, salsas, sauces, pizzas, cheeses, desserts, local honey and other offerings. Beautiful fruits and vegetables.
 
-![](http://farm8.staticflickr.com/7353/14153319285_3e298b3d25_n.jpg)][1]
+[![](http://farm8.staticflickr.com/7353/14153319285_3e298b3d25_n.jpg)](http://www.flickr.com/photos/48315294@N00/14153319285/ "Organic veg")
 
 Here is a table with freshly butchered rabbit and chicken, homemade sausages and other meats.
 
 ![](http://farm6.staticflickr.com/5514/13966659468_fece8eb6de_n.jpg)
 
-Today we were after kombucha, which is a lightly effervescent fermented drink !ot alcoholic) that is loaded with probiotics. The lady had jamaica (hibiscus) and lemon-hierbabuena (lemon-mint) flavors. Mmmm, so nice and healthful! We also bought a nice loaf of homemade bread from her, and a hunk of soft, flavored homemade cheese from another lady that hails from Argentina.
+Today we were after kombucha, which is a lightly effervescent fermented drink (not alcoholic) that is loaded with probiotics. The lady had jamaica (hibiscus) and lemon-hierbabuena (lemon-mint) flavors. Mmmm, so nice and healthful! We also bought a nice loaf of homemade bread from her, and a hunk of soft, flavored homemade cheese from another lady that hails from Argentina.
 
-![](http://farm3.staticflickr.com/2903/13968097090_59647d602d_n.jpg)][2]
+[![](http://farm3.staticflickr.com/2903/13968097090_59647d602d_n.jpg)](http://www.flickr.com/photos/48315294@N00/13968097090/ "Kombucha")
 
 We will definitely be back regularly to purchase produce and chicken and other tasty treats -- and definitely more kombucha!
- ![]1]: http://www.flickr.com/photos/48315294@N00/14153319285/ "Organic veg"
- ![]2]: http://www.flickr.com/photos/48315294@N00/13968097090/ "Kombucha"
