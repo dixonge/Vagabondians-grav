@@ -28,6 +28,6 @@ Fortunately I had already read about this place online, so we just pulled up out
 
 http://www.facebook.com/photo.php?fbid=237126059637555&#038;set=a.237123732971121.83228.197146780302150&#038;type=1&#038;theater
 
-Thursday we packed up, drove into Flagstaff, picked up our new WiFi Hotspot device and drove north through the desolate !et pretty) landscape that is Arizona to the Kaibab CampeRVillage up on the plateau. Today's agenda includes a 40-mile drive down to the North Rim of the Grand Canyon to see what we can see. More pics soon!
+Thursday we packed up, drove into Flagstaff, picked up our new WiFi Hotspot device and drove north through the desolate (yet pretty) landscape that is Arizona to the Kaibab CampeRVillage up on the plateau. Today's agenda includes a 40-mile drive down to the North Rim of the Grand Canyon to see what we can see. More pics soon!
 
 http://www.facebook.com/media/set/?set=a.237123732971121.83228.197146780302150

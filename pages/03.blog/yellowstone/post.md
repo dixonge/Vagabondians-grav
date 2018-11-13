@@ -10,7 +10,7 @@ tags:  Wyoming
 ---
 We Arrive
 
-We drove in to the Yellowstone area from the NorthWest. It was pretty easy to find our destination, the ![](Wagon Wheel RV" href="http://www.wagonwheelrv.com/" target="_blank)]>Wagon Wheel RV park. Ken not only checked us in but pulled out a map and gave us a thorough overview of the park and the town. He drew lines and circled and annotated everything, including recommended businesses and complete mileage logs for each loop. It was a bit overwhelming at first, but proved to be invaluable later. It would be difficult to find a better park manager than this guy! We set up the trailer and took a brief stroll through town. Things were pretty quiet -- it was, after all, Sunday evening. Perfect! We love avoiding the crowds!
+We drove in to the Yellowstone area from the NorthWest. It was pretty easy to find our destination, the [Wagon Wheel RV Park](http://www.wagonwheelrv.com/). Ken not only checked us in but pulled out a map and gave us a thorough overview of the park and the town. He drew lines and circled and annotated everything, including recommended businesses and complete mileage logs for each loop. It was a bit overwhelming at first, but proved to be invaluable later. It would be difficult to find a better park manager than this guy! We set up the trailer and took a brief stroll through town. Things were pretty quiet -- it was, after all, Sunday evening. Perfect! We love avoiding the crowds!
 
 ![](https://lh5.googleusercontent.com/-cejvCCUpVNc/ToIINCwCnLI/AAAAAAAAB0k/zVYBRuMqKR8/s640/SAM_0126.jpg)
 
@@ -20,9 +20,7 @@ Normally I would walk you through a daily blow-by-blow of when and where we visi
 
 ![](https://lh4.googleusercontent.com/-ilne9Q_NGjM/TlsM_9RdfPI/AAAAAAAABW8/jTCTV9J7NlE/s640/SAM_0137.jpg)
 
-Have you ever heard of a Supervolcano? There is only one supervolcano area in the whole world that is on land -- that's Yellowstone. Every 100,000 years or so these things go off in massive explosions. This is the kind of eruption that makes species go extinct. Unfortunately they don't go fully, permanently dormant. So the entire Yellowstone region is sitting on top of this volcanic area. That is why there are regular earthquakes and tremors and lots of hot water bubbling up everywhere. And every time the earth quakes the water pathways are diverted. Old springs and geysers shift or dry up, new springs and geysers pop up or become more active. It's enough to make the Park maintenance crew crazy I'm sure!ote: Mammoth Hot Springs is currently 85-90% dry in 2011. I don't know if that will change, but keep it in mind when planning your trip.
-
-
+Have you ever heard of a Supervolcano? There is only one supervolcano area in the whole world that is on land -- that's Yellowstone. Every 100,000 years or so these things go off in massive explosions. This is the kind of eruption that makes species go extinct. Unfortunately they don't go fully, permanently dormant. So the entire Yellowstone region is sitting on top of this volcanic area. That is why there are regular earthquakes and tremors and lots of hot water bubbling up everywhere. And every time the earth quakes the water pathways are diverted. Old springs and geysers shift or dry up, new springs and geysers pop up or become more active. It's enough to make the Park maintenance crew crazy I'm sure! Note: Mammoth Hot Springs is currently 85-90% dry in 2011. I don't know if that will change, but keep it in mind when planning your trip.
 
 Hot Spots
 
@@ -37,6 +35,7 @@ If the air is bubbling up slowly through water, you have a hot spring. You can f
 ![](https://lh4.googleusercontent.com/-13Yz8wCYxTA/Tlx1kYzmSkI/AAAAAAAABX4/YIjZ50gKdEA/s640/P1150807.jpg)
 
 If you have air coming up through mud, instead of water, you have a mud pot. The thick mud just bubbles and plops around. Very entertaining!
+
 ![](https://lh4.googleusercontent.com/-pnQ0COYWExk/TmBlBdM2f7I/AAAAAAAABbo/qDTcaHwz_aQ/s800/P1150342.jpg)
 
 Water
@@ -47,8 +46,6 @@ Of course there is plenty of non-heated water in the park as well. The Madison R
 
 ![](https://lh5.googleusercontent.com/-JxY3fvwYIFo/TmQPBwMZ9jI/AAAAAAAABcs/h3Geg2eC51Y/s800/P1150607.jpg)
 
-
-
 ![](https://lh6.googleusercontent.com/-wjIPbJa-KgU/ToJNXAojsKI/AAAAAAAAB2U/LvBwFYioQg8/s800/P1150595.jpg)
 
 Wildlife
@@ -57,11 +54,11 @@ The average visitor to Yellowstone is going to see mainly three species of wildl
 
 ![](https://lh5.googleusercontent.com/-_WJm-89_1jo/TmQRO6qZCxI/AAAAAAAABc0/kX8aHAaYDGQ/s640/P1150666.jpg)
 
-The next day I got a great tip from Kevin Sanders, a.k.a. ![](Bearman" href="http://www.yellowstone-bearman.com/" target="_blank">Bearman. He runs a tour guide service and is possibly more familiar with the park than anyone else, including rangers! He posted an update on his <a title="Bearman's Yellowstone Outdoor Adventures" href="http://www.facebook.com/BearmansYellowstoneOutdoorAdventures" target="_blank)]>Facebook page</a> and mentioned some wolves feasting on a carcass. We had missed them! But he indicated that they would probably be there again the next day, and sure enough they were! Unfortunately, they were WAY off in the distance, about a mile from the road. Our binoculars and camera zoom were insufficient for much detail. But we DID get a hot tip from one of the other wolf watchers. He said that just to our south a grizzly bear was munching on a carcass really close to the road! Soon we were in our car.
+The next day I got a great tip from Kevin Sanders, a.k.a. [Bearman](http://www.yellowstone-bearman.com). He runs a tour guide service and is possibly more familiar with the park than anyone else, including rangers! He posted an update on his [Bearman's Yellowstone Outdoor Adventures](http://www.facebook.com/BearmansYellowstoneOutdoorAdventures) Facebook page and mentioned some wolves feasting on a carcass. We had missed them! But he indicated that they would probably be there again the next day, and sure enough they were! Unfortunately, they were WAY off in the distance, about a mile from the road. Our binoculars and camera zoom were insufficient for much detail. But we DID get a hot tip from one of the other wolf watchers. He said that just to our south a grizzly bear was munching on a carcass really close to the road! Soon we were in our car.
 
 ![](https://lh6.googleusercontent.com/-ZGeq8Nm2eOM/TmQam_Dy7PI/AAAAAAAABdg/CFBC-tHC1i4/s640/P1150734.jpg)
 
-As we arrived there was a tremendous traffic jam. We parked in the first open area and walked down the road to where all the action was. And there it was!OW that thing was close! We estimated that it was about 75 feet off the road. Normally it is NOT safe to be that close to a grizzly! Fortunately he was busy eating and was in a grove of trees so he felt protected. We took a lot of photos and video, but eventually the rangers pushed the crowds to the left and right away from the bear, ending any sort of good viewing. We were so excited to be able to see this beast from such a short distance!
+As we arrived there was a tremendous traffic jam. We parked in the first open area and walked down the road to where all the action was. And there it was! WOW that thing was close! We estimated that it was about 75 feet off the road. Normally it is NOT safe to be that close to a grizzly! Fortunately he was busy eating and was in a grove of trees so he felt protected. We took a lot of photos and video, but eventually the rangers pushed the crowds to the left and right away from the bear, ending any sort of good viewing. We were so excited to be able to see this beast from such a short distance!
 
 ![](https://lh5.googleusercontent.com/-pDT6hgq0j3w/Tl21z-cUUjI/AAAAAAAABY8/M0X_xz83nhk/s800/P1160331.jpg)
 
@@ -78,20 +75,7 @@ But in addition to the main features, there is also a lot of scenery. There are 
 When we first planned our trip, Yellowstone was on the map but neither of us thought of it as a highlight. I was more excited about the tall trees of California, Bryn was rather fixated on Yosemite. But Yellowstone got our attention and held it, its beauty and wildness proving why it was the World's first National Park.
 
 There are 73 photos in this photo album -- see the whole thing here!
-!lick the picture below)
 
+(click the picture below)
 
-
-<table style="width: 194px;">
-  <tr>
-    <td style="height: 194px; background: url![]'https://picasaweb.google.com/s/c/transparent_album_background.gif') no-repeat left;" align="center">
-      ![](https://picasaweb.google.com/dixonge/Yellowstone?authuser=0&feat=embedwebsite">![](https://lh4.googleusercontent.com/---py-F7BEqQ/TlsM-lDDKlE/AAAAAAAAB6c/PJ3soCK9Nts/s160-c/Yellowstone.jpg)
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="text-align: center; font-family: arial,sans-serif; font-size: 11px;">
-      <a  href="https://picasaweb.google.com/dixonge/Yellowstone?authuser=0&feat=embedwebsite">Yellowstone
-    </td>
-  </tr>
-</tabl
+[Add Yellowstone pics to Flickr]
