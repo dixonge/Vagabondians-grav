@@ -6,7 +6,9 @@ slug: the-interesting-people-of-san-cristobal-de-las-casas
 image: teaser-mexico.jpg
 category: Mexico
 ---
-![](http://vagabondians.com/the-interesting-people-of-san-cristobal-de-las-casas/img_0567/" rel="attachment wp-att-2157">![](/user/images/2012/11/IMG_0567-e1353466003832.jpg)There are many reasons I love cities like San Cristobal de las Casas. One major reason is the unique blend of people here. Sure, you can find interesting people anywhere, but some places are magnets. The tourists are interesting enough as it is. Lots of neo-hippies with their long dreads, baggy yoga pants, piercings, tattoos and sandals. Many of them busk with music or silly entertainment acts, or do the street-performer thing. But there are so many of them that, after awhile, they begin to represent a kind of normal. They cease to stand out. But there are others.
+![](/user/images/2012/11/IMG_0567-e1353466003832.jpg)
+
+There are many reasons I love cities like San Cristobal de las Casas. One major reason is the unique blend of people here. Sure, you can find interesting people anywhere, but some places are magnets. The tourists are interesting enough as it is. Lots of neo-hippies with their long dreads, baggy yoga pants, piercings, tattoos and sandals. Many of them busk with music or silly entertainment acts, or do the street-performer thing. But there are so many of them that, after awhile, they begin to represent a kind of normal. They cease to stand out. But there are others.
 
 Recently I was walking down the sidewalk and was passed by a young Mexican with his pet iguana. It was bright green and connected to a leash and riding on top of his head. That's not something you see every day.
 

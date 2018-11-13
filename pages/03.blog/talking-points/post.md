@@ -8,9 +8,11 @@ dsq_thread_id: 3657945858
 category: News
 tags: Tales From the Tiki Bar
 ---
-![](/user/images/2012/10/spider.jpg)][1]Being on the road, we meet a lot of new and interesting people from all over the world and have precious little time to get to know them, perhaps only the one day or evening to form a friendship. I am, and perhaps you are too, a little shy and often stumped for something to talk about. My culture is prone to be a bit distant and untrusting of new people and so I have always been hesitant to ask anything probing or personal and seem forward and nosy.
+![](/user/images/2012/10/spider.jpg)]
 
-So I have been searching, and my favorite advice for getting someone to like you is to be interested in them rather than talking about yourself !hanks to a post by [(Married With Luggage" href="http://www.marriedwithluggage.com/2012/12/12/be-interested-really-interested/" target="_blank">Married with Luggage). That takes the pressure off me to talk and makes the subject something interesting for both of us. I also found a great article from Ash Ambirge at The Middle Finger Project called <a title="Your Life in Six Words" href="http://www.themiddlefingerproject.org/your-life-in-6-words/" target="_blank">Your Life In Six Words</a>. As part of a survey of her clients, she asked a series of questions. I am including them here, as well as a small sample of the inspiring answers left by her readers. (For the complete list of answers, read <a title="Your Life in Six Words" href="http://www.themiddlefingerproject.org/your-life-in-6-words/" target="_blank">Ash' article</a>) I think these kinds of questions way trump "where are you from" and "what do you do,)] don't you? And they open up all kinds of possibilities for keeping the convo going beyond small talk about the weather and whether you like this city.
+Being on the road, we meet a lot of new and interesting people from all over the world and have precious little time to get to know them, perhaps only the one day or evening to form a friendship. I am, and perhaps you are too, a little shy and often stumped for something to talk about. My culture is prone to be a bit distant and untrusting of new people and so I have always been hesitant to ask anything probing or personal and seem forward and nosy.
+
+So I have been searching, and my favorite advice for getting someone to like you is to be interested in them rather than talking about yourself. Thanks to a post by [Married With Luggage](http://www.marriedwithluggage.com/2012/12/12/be-interested-really-interested). That takes the pressure off me to talk and makes the subject something interesting for both of us. I also found a great article from Ash Ambirge at The Middle Finger Project called [Your Life in Six Words](http://www.themiddlefingerproject.org/your-life-in-6-words/). As part of a survey of her clients, she asked a series of questions. I am including them here, as well as a small sample of the inspiring answers left by her readers. (For the complete list of answers, read Ash' article) I think these kinds of questions way trump "where are you from" and "what do you do," don't you? And they open up all kinds of possibilities for keeping the convo going beyond small talk about the weather and whether you like this city.
 
 This first one is interesting and fun -- quick, six words for your life story!ind of like a Haiku. What would yours be? Tell me in the comments!
 
@@ -61,10 +63,6 @@ This first one is interesting and fun -- quick, six words for your life story!in
   * I should have gotten married at 22.
   * I should just pack it in, move to somewhere with a beach that never gets cold, and just be a bartender and swim in the ocean for the rest of my life.
 
-
+* * *
 
 Cheers!
-!osted with Blogsy][2]
-
- ![]1]: /2012/10/spider.jpg
- ![]2]: http://blogsyapp.com/
