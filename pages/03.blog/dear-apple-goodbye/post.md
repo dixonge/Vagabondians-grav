@@ -1,5 +1,5 @@
 ---
-title: 'Dear Apple: Goodbye![]'
+title: 'Dear Apple: Goodbye!'
 date: '04/16/2013 10:00am'
 author: Glenn
 excerpt: Why we are leaving Apple products for Google and Linux, and how we are doing it.
