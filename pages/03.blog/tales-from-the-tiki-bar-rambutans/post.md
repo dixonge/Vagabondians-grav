@@ -9,4 +9,4 @@ category: Mexico
 ---
 I bought a special treat at the market this afternoon. They look freaky but are delicious!
 
-
+[Video? Photo?]
