@@ -1,5 +1,5 @@
 ---
-title: 'Tales from the Tiki Bar -- Rambutans![]'
+title: 'Tales from the Tiki Bar -- Rambutans!'
 date: '08/09/2012 10:00am'
 author: Bryn
 slug: tales-from-the-tiki-bar-rambutans

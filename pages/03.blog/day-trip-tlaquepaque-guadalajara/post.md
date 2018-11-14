@@ -1,12 +1,13 @@
 ---
-title: 'Day Trip![]Tlaquepaque/Guadalajara'
+title: 'Day Trip! Tlaquepaque/Guadalajara'
 date: '04/23/2012 10:00am'
 author: Bryn
 slug: day-trip-tlaquepaque-guadalajara
 image: tlaquepaque.jpg
 dsq_thread_id: 3229817877
 category: Mexico
-tags:  guadalajara
+tags:
+  - guadalajara
   - mexico
   - tlaquepaque
 ---
