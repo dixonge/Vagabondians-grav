@@ -5,7 +5,8 @@ author: Bryn
 slug: musings-homeless
 image: stuffed-garage.jpeg
 dsq_thread_id: 3267893842
-category: News
+category:
+  - News
   - Tales From the Tiki Bar
 ---
 Homelessness on purpose is a pretty freaky feeling.  We, like you, have always had a lot of stuff.  We had a small house that eventually seemed a bit cramped.  We moved closer to our good jobs and bought our dream home with the vow never to move again.  We bought the house we thought we'd retire in, in a nice neighborhood.  It was big enough for us and overnight guests and party gatherings.  We filled it with stuff that attracted us.  I never threw things away or got rid of very much that I really could have/should have, just in case I might need it later.  Then came the epiphany.

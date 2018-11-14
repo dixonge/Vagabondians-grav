@@ -3,7 +3,7 @@ title: Waterfalls Day!
 date: '01/08/2013 10:00am'
 author: Bryn
 slug: waterfalls-day
-image: /user/images/teaser-mexico.jpg
+image: teaser-mexico.jpg
 category: Mexico
 ---
 If you come to Chiapas, Mexico, all the tour companies have trips to see waterfalls Misol Ha and Aguas Azul. The van dropped us off and said to "walk that way," come back in an hour. Not sure what we would encounter, we walked. Yes, it was worth it!
