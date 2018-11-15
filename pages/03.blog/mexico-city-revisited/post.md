@@ -34,14 +34,3 @@ Our last day we walked around a bit and revisited the top of the [Torre Latinoam
 Quite a view from up there! The big city park is being cleaned up and renovated, so we didn't get to go in.  The Bella de Artes is just as impressive from above as it is from below and inside.
 
 If you get the chance, visit Mexico City.  It's a fascinating and diverse city with too many things to do and see.  Don't let the US government scare you off.  It's no more dangerous than Detroit or downtown Dallas, the people are generally more friendly and helpful if you ask, and taxis won't break the budget.  Just stay where the people are, like you would at home, instead of wandering the back alleys -- duh!
-
-[2]: http://www.flickr.com/photos/48315294@N00/7698699556 "View 'Posters protesting the election' on Flickr.com"
-[3]: http://www.flickr.com/photos/48315294@N00/7698715826 "View 'You can rent these fun little cars' on Flickr.com"
-[5]: http://www.flickr.com/photos/48315294@N00/7698749800 "View 'Serpent head and frog entrance' on Flickr.com"
-[6]: http://www.flickr.com/photos/48315294@N00/7698755010 "View 'Face knives used in human sacrifice' on Flickr.com"
-[8]: http://www.flickr.com/photos/48315294@N00/7698799018 "View 'Bryn climbing Sun Pyramid' on Flickr.com"
-[9]: http://www.flickr.com/photos/48315294@N00/7698817862 "View 'Glenn descending Sun Pyramid' on Flickr.com"
-[10]: http://www.flickr.com/photos/48315294@N00/7698823658 "View 'Bryn points to the Moon Pyramid from top of Sun Pyramid' on Flickr.com"
-[11]: http://www.flickr.com/photos/48315294@N00/7698811110 "View 'Sun Pyramid is steep' on Flickr.com"
-[13]: http://www.flickr.com/photos/48315294@N00/7698724754 "View 'The Vagabondians taking in the view' on Flickr.com"
-[14]: http://www.flickr.com/photos/48315294@N00/7698729292 "View 'Large city park' on Flickr.com"

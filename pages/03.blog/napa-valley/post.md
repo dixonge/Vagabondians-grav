@@ -24,11 +24,9 @@ http://www.facebook.com/photo.php?fbid=262588997091261&#038;set=a.26258872042462
 
 Our first winery was [Chateau Montelena](http://montelena.com). It is the quintessential winery, with a main building looking much like its European predecessors. Their claim to fame is their 1973 Chardonnay which beat the French wines at an infamous blind tasting in Paris in 1976. You can get the basics and a lot of good entertainment from the movie version of events:
 
+[plugin:youtube](https://youtu.be/DYs0kblXToA)
 
-
-You can get the full story in the book:
-
-
+You can get the full story in the book [Judgment of Paris](https://www.amazon.com/Judgment-Paris-George-M-Taber/dp/0743297326).
 
 Montelena also has beautiful grounds, with a small lake and gazebos.
 

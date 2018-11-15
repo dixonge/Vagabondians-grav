@@ -35,3 +35,5 @@ The next day we met an old friend and storm-chasing buddy Steve Miller for lunch
 Here is the full photo album:
 
 ![](http://imgur.com/a/9703M.jpg)
+
+<a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/vagabondians/albums/72157626533195207" title="Amarillo Airport"><img src="https://farm4.staticflickr.com/3340/5692525260_597b66b152_b.jpg" width="1024" height="683" alt="Amarillo Airport"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
