@@ -12,7 +12,7 @@ Acapulco has always held an allure for me.  My parents honeymooned there in the
 
 Those expectations have been dashed a bit, but it was still quite a place.  Acapulco Bay is just gorgeous.  Beautiful calm waters, boats moored, nice sunsets and sunrises.  We stayed in the old part of town, preferring to experience the real thing instead of opting for the big new hotels and resorts frequented by the new jet set with lots of money.  Our hotel was reasonably nice and cheap and across the street from the bay -- and a surprise on the other side of the hotel entranceway.
 
-[flickr-photo id=44347794832]
+[flickr-photo id=44347794832_f21cdc3b4c_b]
 
 The view was superb however, both early and late.  And we were up early because the colorful, neon-decorated buses and taxis start honking to greet the morning at 6 a.m. sharp -- all of them.
 
