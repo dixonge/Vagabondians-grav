@@ -1,5 +1,5 @@
 ---
-title: Welcome to New Mexico !gain)
+title: Welcome to New Mexico (again)
 date: '05/08/2011 10:00am'
 author: Glenn
 slug: mexico-again
