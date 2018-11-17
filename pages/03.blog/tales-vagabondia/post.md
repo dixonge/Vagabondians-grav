@@ -27,4 +27,4 @@ The Tiki BaRV WAS heading for Mesa Verde to discover the ancient cliff dwellings
 
 Cheers, everybody!
 
-![](http://imgur.com/a/KOjZl)
+<a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/vagabondians/albums/72157703702619815" title="The Ancient Way Cafe"><img src="https://farm5.staticflickr.com/4871/30982465957_8030ee62ba_b.jpg" width="1024" height="768" alt="The Ancient Way Cafe"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

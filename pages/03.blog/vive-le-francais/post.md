@@ -13,4 +13,4 @@ Fortunately for us, their English is excellent! We enjoyed the conversation, an
 
 They are blogging about their adventures, mostly in French with some English thrown in.  You can read more at [COBElife's Great Adventure](http://www.travelpod.com/travel-blog/cobelife/1/tpod.html).  Au revoir!
 
-[Photos on Imgur](http://imgur.com/a/SoYcO)
+<a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/vagabondians/albums/72157626777909412" title="COBE Life in New Mexico"><img src="https://farm3.staticflickr.com/2687/5745923997_b60f66da05_b.jpg" width="1024" height="576" alt="COBE Life in New Mexico"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
