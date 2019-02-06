@@ -1,5 +1,5 @@
 ---
-background: background-antique-map-compass-smaller.jpg
+background: 'http://vagabondians.com/user/images/background-antique-map-compass-smaller.jpg'
 media_order: 'half-dome.JPG,lost-monarch.jpg,rock-climbing.jpg,sun-pyramid.jpg,tornado.jpg,whale-tail-cropped.jpg,background-antique-map-compass-smaller.jpg'
 body_classes: 'title-center title-h1h2'
 ---
