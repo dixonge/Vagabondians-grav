@@ -1,6 +1,5 @@
 body, .site-wrapper, .no-cover.main-header {
     background-image: url("https://vagabondians.com/user/images/background-op.jpg") !important;
-    color: white!important;
   }
   .menu-button label {
       cursor: pointer
@@ -36,7 +35,7 @@ body, .site-wrapper, .no-cover.main-header {
   
   .post-content code,
   .post-content pre {
-      color: white;
+      color: #000;
       background: none;
       text-shadow: 0 1px #fff;
       font-family: Verdana, Calibri, Arial, Andale Mono, Ubuntu Mono, monospace;
@@ -193,7 +192,7 @@ body, .site-wrapper, .no-cover.main-header {
       -webkit-font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1;
       -moz-font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1;
       -o-font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1;
-      color: white;
+      color: #000;
       line-height: 1.15em;
       margin: 0 0 .4em;
       font-family: Open Sans, "sans-serif"
@@ -348,9 +347,9 @@ body, .site-wrapper, .no-cover.main-header {
       max-height: 100%;
       font-family: font-family: Verdana, Calibri, Arial, Andale Mono, Ubuntu Mono, monospace;
       letter-spacing: .01rem;
-      font-size: 1.8rem;
+      font-size: 2.0rem;
       line-height: 1.75em;
-      color: white;
+      color: #000;
       -webkit-font-feature-settings: 'kern' 1;
       -moz-font-feature-settings: 'kern' 1;
       -o-font-feature-settings: 'kern' 1;
@@ -1164,7 +1163,7 @@ body, .site-wrapper, .no-cover.main-header {
       letter-spacing: -1px;
       font-weight: 700;
       font-family: Open Sans, "sans-serif";
-      color: #fff
+      color: #000;
   }
   
   .page-description {
