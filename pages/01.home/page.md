@@ -1,6 +1,5 @@
 ---
 title: Home
-media_order: whale-tail_1308710927_o.jpg
 body_classes: 'title-center title-h1h2'
 ---
 
