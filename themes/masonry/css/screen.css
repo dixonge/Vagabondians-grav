@@ -1112,23 +1112,22 @@ body, .site-wrapper, .no-cover.main-header {
       float: right;
       padding: 0 15px;
       border-style: solid;
-      border-width: 1px;
+      border-width: 3px;
       opacity: 1;
       text-align: center;
-      font-size: 12px;
+      font-size: 16px;
       text-transform: uppercase;
-      line-height: 35px;
       white-space: nowrap;
       border-radius: 3px;
       transition: all .5s ease
   }
   
   .menu-button:before {
-      font-size: 12px;
+      font-size: 16px;
       font-weight: 700;
       margin-right: 6px;
       position: relative;
-      top: 1px
+      top: 0px
   }
   
   .menu-button:hover {
@@ -1140,8 +1139,8 @@ body, .site-wrapper, .no-cover.main-header {
   }
   
   .nav-closed .menu-button {
-      color: #fff;
-      border-color: hsla(0, 0%, 100%, .6)
+      color: #000;
+      border-color: #000;
   }
   
   .nav-closed .menu-button:hover {
@@ -1149,8 +1148,8 @@ body, .site-wrapper, .no-cover.main-header {
   }
   
   .nav-closed .no-cover .menu-button {
-      border-color: #bfc8cd;
-      color: #9eabb3
+      border-color: #000;
+      color: #000;
   }
   
   .nav-closed .no-cover .menu-button:hover {

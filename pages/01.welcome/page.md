@@ -3,7 +3,7 @@ media_order: 'half-dome.JPG,lost-monarch.jpg,rock-climbing.jpg,sun-pyramid.jpg,t
 body_classes: 'title-center title-h1h2'
 ---
 
-![](half-dome.JPG)![](lost-monarch.jpg)![](rock-climbing.jpg)![](sun-pyramid.jpg)![](tornado.jpg)![](whale-tail-cropped.jpg)
+![](half-dome.JPG)![](lost-monarch.jpg)![](whale-tail-cropped.jpg)![](sun-pyramid.jpg)![](tornado.jpg)![](rock-climbing.jpg)
 
 Welcome.
 
