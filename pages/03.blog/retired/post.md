@@ -3,7 +3,7 @@ title: Retired!
 hide_hypothesis: false
 ---
 
-![](http://)OK, this is old news for those of you who are connected with us on social media, but in finally catching up on the blog, let's make it official. Glenn finished a two-year stint in Austin in 2017. By the end of August we were back in Mexico as officially retired people, and by October we were officially pensioners. Pensionados, or as they say in Mexico, Jubilados. Yes, we are quite jubilant!
+OK, this is old news for those of you who are connected with us on social media, but in finally catching up on the blog, let's make it official. Glenn finished a two-year stint in Austin in 2017. By the end of August we were back in Mexico as officially retired people, and by October we were officially pensioners. Pensionados, or as they say in Mexico, Jubilados. Yes, we are quite jubilant!
 
 We originally moved back to Jalisco to enjoy the climate and our friends, and to an extent we did both. But there is a reason someone came up with the saying "You can't go home again." Actually, that someone was Thomas Wolfe who wrote the book. Over the years the phrase has come to be associated with the larger concept of change. And Lake Chapala has changed a lot. Shortly after we returned some close friends moved back to the States and our favorite restaurant/bar closed down. Also, we were vegan which presented a whole new set of problems. But we found places to eat and lots of new friends, and after a couple of false starts we ended up in a nice place with a great view.
 
