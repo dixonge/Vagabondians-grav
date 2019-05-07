@@ -1,5 +1,4 @@
 ---
-body_classes: home-template
 content:
     items:
         - '@self.children'
