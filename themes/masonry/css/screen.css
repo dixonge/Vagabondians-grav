@@ -1215,6 +1215,10 @@ body, .site-wrapper, .no-cover.main-header {
       padding-bottom: 0
   }
   
+  header.main-header.post-head {
+      background-size: contain;
+  }
+
   .post-template .post:after {
       display: block;
       content: "";
