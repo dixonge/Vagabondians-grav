@@ -6,6 +6,7 @@ author: Glenn
 image: La-Pochota.jpg
 category: Mexico
 ---
+
 ![La Pochota -- a kapok tree that has been here since the town was founded in the 16th century](/user/images/2013/02/La-Pochota.jpg)
 
 We enjoyed San Cristobal de las Casas so much we ended up staying there for six months. But towards the end it began to feel like we had stayed too long. Eventually we began exploring our next move. When we discovered that some friends from Seattle were going to visit Belize in January, our plans were set.
