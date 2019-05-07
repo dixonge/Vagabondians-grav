@@ -1,9 +1,11 @@
 ---
+body_classes: home-template
 sitemap:
     changefreq: weekly
     priority: 1.03
 content:
-    items: '@self.children'
+    items:
+        - '@self.children'
     order:
         by: date
         dir: desc
