@@ -1,4 +1,5 @@
 ---
+hide_hypothesis: false
 content:
     items:
         - '@self.children'
