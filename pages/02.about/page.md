@@ -1,5 +1,6 @@
 ---
 title: 'About Us'
+hide_hypothesis: false
 ---
 
 <p>Hello!  We're Glenn and Bryn, and we are Vagabondians.  (Yes, I made that word up) Several years ago we looked forward to the second half of our lives and we decided that we didn't want to go the traditional route.  So we took the next exit and began exploring the back roads.  We began leaving things behind (literally) at every stop.  First we jettisoned our debt, then most of our belongings, then our house, then our jobs!  Here's the how and why.</p>
