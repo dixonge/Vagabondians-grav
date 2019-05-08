@@ -1,6 +1,6 @@
 ---
 title: Mañana in Mexico
-date: '03/24/2012 10:00am'
+publish_date: '03/24/2012 10:00am'
 author: Glenn
 slug: manana-mexico
 image: manana.jpg

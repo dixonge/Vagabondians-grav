@@ -1,6 +1,6 @@
 ---
 title: Williams, Arizona
-date: '06/17/2011 10:00am'
+publish_date: '06/17/2011 10:00am'
 author: Glenn
 slug: williams-arizona
 image: horsies.jpg

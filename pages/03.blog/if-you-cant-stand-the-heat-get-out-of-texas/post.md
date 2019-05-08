@@ -1,6 +1,6 @@
 ---
 title: If You Can't Stand The Heat, Get Out of Texas
-date: '06/27/2013 10:00am'
+publish_date: '06/27/2013 10:00am'
 author: Glenn
 slug: if-you-cant-stand-the-heat-get-out-of-texas
 image: texas-heat.jpg

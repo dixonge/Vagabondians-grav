@@ -1,6 +1,6 @@
 ---
 title: We Woke up in Nicaragua!
-date: '06/30/2013 10:00am'
+publish_date: '06/30/2013 10:00am'
 author: Bryn
 slug: we-woke-up-in-nicaragua
 image: we-woke-up.jpg

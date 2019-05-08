@@ -1,6 +1,6 @@
 ---
 title: 'A Bigger Tent -- on Wheels'
-date: '05/22/2011 10:00am'
+publish_date: '05/22/2011 10:00am'
 author: Glenn
 slug: bigger-tent-wheels
 image: Trailer.jpg

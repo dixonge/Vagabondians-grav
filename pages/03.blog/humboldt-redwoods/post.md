@@ -1,6 +1,6 @@
 ---
 title: Humboldt Redwoods
-date: '08/08/2011 10:00am'
+publish_date: '08/08/2011 10:00am'
 author: Glenn
 slug: humboldt-redwoods
 image: talltree.jpg

@@ -1,6 +1,6 @@
 ---
 title: Oh, Mexico
-date: '03/01/2012 10:00am'
+publish_date: '03/01/2012 10:00am'
 author: Glenn
 slug: oh-mexico
 image: mexico2.jpg

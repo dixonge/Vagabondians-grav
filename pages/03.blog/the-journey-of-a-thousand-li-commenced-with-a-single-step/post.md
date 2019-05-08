@@ -1,6 +1,6 @@
 ---
 title: The Journey of a Thousand Li Commenced With a Single Step
-date: '07/11/2010 10:00am'
+publish_date: '07/11/2010 10:00am'
 author: Glenn
 slug: the-journey-of-a-thousand-li-commenced-with-a-single-step
 image: trail-1.jpg

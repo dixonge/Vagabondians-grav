@@ -1,6 +1,6 @@
 ---
 title: Communications On The Road
-date: '12/16/2010 10:00am'
+publish_date: '12/16/2010 10:00am'
 author: Glenn
 slug: communications-road
 image: SANY0001.jpg

@@ -1,6 +1,6 @@
 ---
 title: 'MY TIKI BAR KITCHEN -- 3'
-date: '06/24/2012 10:00am'
+publish_date: '06/24/2012 10:00am'
 author: Bryn
 slug: my-tiki-bar-kitchen-3
 image: chicken-feet.jpg

@@ -1,6 +1,6 @@
 ---
 title: A Year Outside The USA
-date: '07/02/2014 10:00am'
+publish_date: '07/02/2014 10:00am'
 author: Glenn
 slug: year-outside-usa
 image: year-outside.jpg

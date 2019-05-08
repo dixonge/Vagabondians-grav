@@ -1,6 +1,6 @@
 ---
 title: 'The International Crane Foundation -- Baraboo, Wisconsin'
-date: '01/11/2012 10:00am'
+publish_date: '01/11/2012 10:00am'
 author: Glenn
 slug: international-crane-foundation-baraboo-wisconsin
 image: cranes.jpg

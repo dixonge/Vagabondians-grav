@@ -1,6 +1,6 @@
 ---
 title: Notes From the Fringe
-date: '06/23/2010 10:00am'
+publish_date: '06/23/2010 10:00am'
 author: Glenn
 slug: notes-from-the-fringe
 image: redpill-1.jpg

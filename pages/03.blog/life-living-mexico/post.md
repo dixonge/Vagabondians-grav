@@ -1,6 +1,6 @@
 ---
 title: Life and Living in Mexico
-date: '04/18/2012 10:00am'
+publish_date: '04/18/2012 10:00am'
 author: Bryn
 slug: life-living-mexico
 image: SeeClearly.jpg

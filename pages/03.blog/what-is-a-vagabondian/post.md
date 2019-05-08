@@ -1,6 +1,6 @@
 ---
 title: What is a Vagabondian?
-date: '07/13/2010 10:00am'
+publish_date: '07/13/2010 10:00am'
 author: Glenn
 slug: what-is-a-vagabondian
 image: everettruess-1.jpg

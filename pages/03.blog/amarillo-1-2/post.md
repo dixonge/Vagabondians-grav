@@ -1,6 +1,6 @@
 ---
 title: Amarillo -- May 1 and 2
-date: '06/10/2011 10:00am'
+publish_date: '06/10/2011 10:00am'
 author: Glenn
 slug: amarillo-1-2
 image: Guppy.jpg

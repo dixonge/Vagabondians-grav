@@ -1,6 +1,6 @@
 ---
 title: A Special Whale
-date: '08/19/2011 10:00am'
+publish_date: '08/19/2011 10:00am'
 author: Glenn
 slug: special-whale
 image: whale.jpg

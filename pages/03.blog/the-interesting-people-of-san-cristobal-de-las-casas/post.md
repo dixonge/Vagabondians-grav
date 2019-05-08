@@ -1,6 +1,6 @@
 ---
 title: The Interesting People of San Cristobal de las Casas
-date: '11/20/2012 10:00am'
+publish_date: '11/20/2012 10:00am'
 author: Glenn
 slug: the-interesting-people-of-san-cristobal-de-las-casas
 image: teaser-mexico.jpg

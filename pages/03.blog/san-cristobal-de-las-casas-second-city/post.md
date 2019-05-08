@@ -1,6 +1,6 @@
 ---
 title: 'San Cristobal de las Casas -- Second City'
-date: '09/19/2012 10:00am'
+publish_date: '09/19/2012 10:00am'
 author: Bryn
 slug: san-cristobal-de-las-casas-second-city
 image: teaser-mexico.jpg

@@ -1,6 +1,6 @@
 ---
 title: Waterfalls Day!
-date: '01/08/2013 10:00am'
+publish_date: '01/08/2013 10:00am'
 author: Bryn
 slug: waterfalls-day
 image: teaser-mexico.jpg

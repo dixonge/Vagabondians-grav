@@ -1,6 +1,6 @@
 ---
 title: Confessions of a Closet Schemer
-date: '10/17/2012 10:00am'
+publish_date: '10/17/2012 10:00am'
 author: Glenn
 slug: confessions-of-a-closet-schemer
 image: closet-schemer.jpg

@@ -1,6 +1,6 @@
 ---
 title: Bryce Canyon
-date: '07/10/2011 10:00am'
+publish_date: '07/10/2011 10:00am'
 author: Glenn
 slug: bryce-canyon
 image: BryceCanyon.jpg

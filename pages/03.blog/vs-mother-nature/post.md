@@ -1,6 +1,6 @@
 ---
 title: Us vs. Mother Nature
-date: '05/02/2011 10:00am'
+publish_date: '05/02/2011 10:00am'
 author: Glenn
 slug: vs-mother-nature
 image: P1090122.jpg

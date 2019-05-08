@@ -1,6 +1,6 @@
 ---
 title: 'Wallow Fire -- Eastern Arizona'
-date: '06/10/2011 10:00am'
+publish_date: '06/10/2011 10:00am'
 author: Glenn
 slug: wallow-fire-eastern-arizona
 image: SunSmoke.jpg

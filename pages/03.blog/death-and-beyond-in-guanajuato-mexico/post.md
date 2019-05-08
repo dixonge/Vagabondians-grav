@@ -1,6 +1,6 @@
 ---
 title: Death and Beyond in Guanajuato, Mexico
-date: '07/05/2012 10:00am'
+publish_date: '07/05/2012 10:00am'
 author: Bryn
 slug: death-and-beyond-in-guanajuato-mexico
 image: death-and-beyond.jpg

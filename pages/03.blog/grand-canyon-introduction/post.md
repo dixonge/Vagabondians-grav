@@ -1,6 +1,6 @@
 ---
 title: 'Grand Canyon -- Introduction'
-date: '06/12/2011 10:00am'
+publish_date: '06/12/2011 10:00am'
 author: Glenn
 slug: grand-canyon-introduction
 image: ToughGuy.jpg

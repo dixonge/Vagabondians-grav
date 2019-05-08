@@ -1,6 +1,6 @@
 ---
 title: Tales from the Tiki Bar, Tinkertown
-date: '06/05/2011 10:00am'
+publish_date: '06/05/2011 10:00am'
 author: Bryn
 slug: tales-tiki-bar-tinkertown
 image: Tinkertown2.jpg

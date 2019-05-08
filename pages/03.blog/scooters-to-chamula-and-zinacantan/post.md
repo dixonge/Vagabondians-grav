@@ -1,6 +1,6 @@
 ---
 title: Scooters to Chamula and Zinacantan
-date: '09/21/2012 10:00am'
+publish_date: '09/21/2012 10:00am'
 author: Bryn
 slug: scooters-to-chamula-and-zinacantan
 image: teaser-mexico.jpg

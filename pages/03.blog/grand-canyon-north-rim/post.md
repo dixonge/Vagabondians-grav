@@ -1,6 +1,6 @@
 ---
 title: 'Grand Canyon -- North Rim'
-date: '06/27/2011 10:00am'
+publish_date: '06/27/2011 10:00am'
 author: Glenn
 slug: grand-canyon-north-rim
 image: NorthRimSunset.jpg

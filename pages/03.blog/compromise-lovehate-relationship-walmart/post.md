@@ -1,6 +1,6 @@
 ---
 title: Compromise, or My Love/Hate Relationship With WalMart
-date: '01/21/2011 10:00am'
+publish_date: '01/21/2011 10:00am'
 author: Glenn
 slug: compromise-lovehate-relationship-walmart
 image: india-10-06-10-wal-mart.jpg

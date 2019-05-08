@@ -1,7 +1,7 @@
 ---
 title: 'The Legend of Johnny Vagabond'
 slug: legend-johnny-vagabond
-date: '11/27/2014 10:00am'
+publish_date: '11/27/2014 10:00am'
 author: Glenn
 dsq_thread_id: 3268641043
 category: News

@@ -60,7 +60,7 @@ form:
                             options:
                                 folder: Folder
                                 title: Title
-                                date: Date
+                                publish_date: Date
                                 default: Default
 
                         header.content.order.dir:

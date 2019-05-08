@@ -1,6 +1,6 @@
 ---
 title: Exploring Prairie Creek Redwoods State Park
-date: '08/23/2011 10:00am'
+publish_date: '08/23/2011 10:00am'
 author: Glenn
 slug: exploring-prairie-creek-redwoods-state-park
 image: prcreek.jpg

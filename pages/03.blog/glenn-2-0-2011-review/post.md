@@ -1,6 +1,6 @@
 ---
 title: 'Glenn 2.0 -- 2011 in Review'
-date: '01/09/2012 10:00am'
+publish_date: '01/09/2012 10:00am'
 author: Glenn
 slug: glenn-2-0-2011-review
 image: Glenn2.0.jpg

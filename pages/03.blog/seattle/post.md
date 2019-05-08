@@ -1,6 +1,6 @@
 ---
 title: Seattle
-date: '09/05/2011 10:00am'
+publish_date: '09/05/2011 10:00am'
 author: Glenn
 slug: seattle
 image: seattle.jpg

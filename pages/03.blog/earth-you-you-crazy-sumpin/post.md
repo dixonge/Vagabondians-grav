@@ -1,6 +1,6 @@
 ---
 title: You Crazy or Sumpin???
-date: '01/28/2012 10:00am'
+publish_date: '01/28/2012 10:00am'
 author: Bryn
 slug: earth-you-you-crazy-sumpin
 image: FreedomSculpture.jpg

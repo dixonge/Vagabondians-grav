@@ -1,6 +1,6 @@
 ---
 title: Talking Points!
-date: '01/15/2013 10:00am'
+publish_date: '01/15/2013 10:00am'
 author: Bryn
 slug: talking-points
 image: talking-points.jpg

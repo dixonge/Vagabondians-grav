@@ -1,6 +1,6 @@
 ---
 title: Death in Mexico!
-date: '10/30/2013 10:00am'
+publish_date: '10/30/2013 10:00am'
 author: Bryn
 slug: death-mexico
 image: death-mexico.jpg

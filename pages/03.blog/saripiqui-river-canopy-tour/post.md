@@ -1,7 +1,7 @@
 ---
 title: Saripiqui River and Canopy Tour
 author: Glenn
-date: '06/11/2014'
+publish_date: '06/11/2014'
 Permalink: /saripiqui-river-canopy-tour/
 image: sarapiqui.jpg
 dsq_thread_id: 3189151516

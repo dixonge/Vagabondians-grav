@@ -1,6 +1,6 @@
 ---
 title: Wichita Mountains National Wildlife Refuge 4/27-4/29
-date: '06/08/2011 10:00am'
+publish_date: '06/08/2011 10:00am'
 author: Glenn
 slug: wichita-mountains-national-wildlife-refuge
 image: P1080954-e1307549467362.jpg

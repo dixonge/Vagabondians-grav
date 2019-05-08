@@ -1,6 +1,6 @@
 ---
 title: Escaping the System
-date: '03/25/2011 10:00am'
+publish_date: '03/25/2011 10:00am'
 author: Glenn
 slug: escaping-system
 image: escapeesSmall.jpg

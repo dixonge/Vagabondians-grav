@@ -1,6 +1,6 @@
 ---
 title: April Fools?
-date: '04/02/2012 10:00am'
+publish_date: '04/02/2012 10:00am'
 author: Glenn
 slug: april-fools
 image: fool-3.jpg

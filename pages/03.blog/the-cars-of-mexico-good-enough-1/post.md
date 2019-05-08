@@ -1,6 +1,6 @@
 ---
 title: 'The Cars of Mexico -- Good Enough -- Part 1'
-date: '08/11/2012 10:00am'
+publish_date: '08/11/2012 10:00am'
 author: Glenn
 slug: the-cars-of-mexico-good-enough-1
 image: teaser-mexico.jpg

@@ -1,6 +1,6 @@
 ---
 title: San Miguel de Allende
-date: '07/07/2012 10:00am'
+publish_date: '07/07/2012 10:00am'
 author: Bryn
 slug: san-miguel-de-allende
 image: teaser-mexico.jpg

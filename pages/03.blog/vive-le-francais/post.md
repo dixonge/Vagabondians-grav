@@ -1,6 +1,6 @@
 ---
 title: Vive les Français!
-date: '05/24/2011 10:00am'
+publish_date: '05/24/2011 10:00am'
 author: Glenn
 slug: vive-le-francais
 image: french2.jpg

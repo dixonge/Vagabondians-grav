@@ -1,6 +1,6 @@
 ---
 title: 'October 2 -- A Sad Day to Remember'
-date: '10/02/2012 10:00am'
+publish_date: '10/02/2012 10:00am'
 author: Bryn
 slug: october-2-a-sad-day-to-remember
 image: teaser-mexico.jpg

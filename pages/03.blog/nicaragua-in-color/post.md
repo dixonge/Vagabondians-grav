@@ -1,6 +1,6 @@
 ---
 title: Nicaragua in Color
-date: '08/10/2013 10:00am'
+publish_date: '08/10/2013 10:00am'
 author: Bryn
 slug: nicaragua-in-color
 image: nicaragua-in-color.jpg

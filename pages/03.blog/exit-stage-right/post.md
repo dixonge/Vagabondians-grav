@@ -1,6 +1,6 @@
 ---
 title: Exit, Stage Right!
-date: '04/04/2011 10:00am'
+publish_date: '04/04/2011 10:00am'
 author: Glenn
 slug: exit-stage-right
 image: exitstageright.jpg

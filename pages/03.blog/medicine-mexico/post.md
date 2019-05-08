@@ -1,6 +1,6 @@
 ---
 title: Medicine in Mexico
-date: '03/28/2012 10:00am'
+publish_date: '03/28/2012 10:00am'
 author: Bryn
 slug: medicine-mexico
 image: medical.jpg

@@ -1,6 +1,6 @@
 ---
 title: Yellowstone
-date: '09/29/2011 10:00am'
+publish_date: '09/29/2011 10:00am'
 author: Glenn
 slug: yellowstone
 image: yellowstone.jpg

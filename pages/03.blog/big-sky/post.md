@@ -1,6 +1,6 @@
 ---
 title: Under the Big Sky
-date: '09/20/2011 10:00am'
+publish_date: '09/20/2011 10:00am'
 author: Glenn
 slug: big-sky
 image: montana.jpg

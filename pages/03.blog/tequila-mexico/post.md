@@ -1,6 +1,6 @@
 ---
 title: Tequila, Mexico
-date: '01/13/2012 10:00am'
+publish_date: '01/13/2012 10:00am'
 author: Glenn
 slug: tequila-mexico
 image: teaser-mexico.jpg

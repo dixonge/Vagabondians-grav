@@ -1,6 +1,6 @@
 ---
 title: Glenn on the Sun Pyramid
-date: '03/27/2014 10:00am'
+publish_date: '03/27/2014 10:00am'
 author: Glenn
 slug: glenn-sun-pyramid
 image: sun-pyramid.jpg

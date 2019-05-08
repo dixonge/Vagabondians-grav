@@ -1,6 +1,6 @@
 ---
 title: Financial Update
-date: '09/10/2011 10:00am'
+publish_date: '09/10/2011 10:00am'
 author: Glenn
 slug: financial-update
 image: money.jpg

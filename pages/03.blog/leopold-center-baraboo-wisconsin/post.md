@@ -1,6 +1,6 @@
 ---
 title: 'The Leopold Center -- Baraboo, Wisconsin'
-date: '12/06/2011 10:00am'
+publish_date: '12/06/2011 10:00am'
 author: Glenn
 slug: leopold-center-baraboo-wisconsin
 image: leopold.jpg

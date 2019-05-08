@@ -1,6 +1,6 @@
 ---
 title: Squinting in San Cristobal
-date: '08/25/2013 10:00am'
+publish_date: '08/25/2013 10:00am'
 author: Glenn
 slug: squinting-san-cristobal
 image: squinting.jpg

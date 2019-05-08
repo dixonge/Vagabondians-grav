@@ -1,6 +1,6 @@
 ---
 title: 'Tales From the Tiki Bar #2'
-date: '05/08/2011 10:00am'
+publish_date: '05/08/2011 10:00am'
 author: Bryn
 slug: tales-tiki-bar-2
 image: P1090389-Version-2.jpg

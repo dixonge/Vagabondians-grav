@@ -1,6 +1,6 @@
 ---
 title: One More Week Until Mexico
-date: '02/08/2012 10:00am'
+publish_date: '02/08/2012 10:00am'
 author: Glenn
 slug: one-more-week-until-mexico
 image: luggage.jpg

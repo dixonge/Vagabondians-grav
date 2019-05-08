@@ -1,6 +1,6 @@
 ---
 title: Washington to Montana
-date: '09/13/2011 10:00am'
+publish_date: '09/13/2011 10:00am'
 author: Glenn
 slug: washington-montana
 image: WashMont.jpg

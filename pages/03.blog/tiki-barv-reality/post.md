@@ -1,6 +1,6 @@
 ---
 title: The Tiki BaRV -- a Reality!
-date: '05/22/2011 10:00am'
+publish_date: '05/22/2011 10:00am'
 author: Bryn
 slug: tiki-barv-reality
 image: roxi.jpg

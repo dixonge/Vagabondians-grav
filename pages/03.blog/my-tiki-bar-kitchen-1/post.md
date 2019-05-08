@@ -1,6 +1,6 @@
 ---
 title: 'MY TIKI BAR KITCHEN -- 1'
-date: '06/09/2012 10:00am'
+publish_date: '06/09/2012 10:00am'
 author: Bryn
 slug: my-tiki-bar-kitchen-1
 image: tikibar.jpg

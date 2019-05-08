@@ -1,6 +1,6 @@
 ---
 title: Grand Tour of the Islets, Granada, Nicaragua
-date: '08/19/2013 10:00am'
+publish_date: '08/19/2013 10:00am'
 author: Bryn
 slug: grand-tour-of-the-islets-granada-nicaragua
 image: isletas.jpg

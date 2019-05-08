@@ -1,6 +1,6 @@
 ---
 title: Another day, another bed
-date: '01/31/2011 10:00am'
+publish_date: '01/31/2011 10:00am'
 author: Glenn
 slug: bedding-update
 image: P1070850.jpg

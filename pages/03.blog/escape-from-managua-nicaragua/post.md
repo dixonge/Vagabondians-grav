@@ -1,6 +1,6 @@
 ---
 title: Escape from Managua, Nicaragua
-date: '07/21/2013 10:00am'
+publish_date: '07/21/2013 10:00am'
 author: Bryn
 slug: escape-from-managua-nicaragua
 image: escape.jpg

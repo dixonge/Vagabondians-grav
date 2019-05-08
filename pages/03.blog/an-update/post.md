@@ -1,6 +1,6 @@
 ---
 title: 'An update'
-date: '07/04/2015 10:00am'
+publish_date: '07/04/2015 10:00am'
 author: Glenn
 permalink: /an-update/
 category: News

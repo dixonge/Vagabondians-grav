@@ -1,6 +1,6 @@
 ---
 title: Dia de los Muertos Computador
-date: '11/10/2012 10:00am'
+publish_date: '11/10/2012 10:00am'
 author: Glenn
 excerpt: "A few weeks ago, just as Bryn was heading out for a week-long adventure in the jungles of Palenque with her friend Loretta, her MacBook Air began experiencing problems. By the time she tried to import her first set of photos it wouldn't stay powered on long enough to log in."
 slug: dia-de-los-muertos-computador

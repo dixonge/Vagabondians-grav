@@ -1,6 +1,6 @@
 ---
 title: 'Communications on the Road:  Update'
-date: '05/08/2011 10:00am'
+publish_date: '05/08/2011 10:00am'
 author: Glenn
 slug: communications-road-update
 image: P1080521.jpg

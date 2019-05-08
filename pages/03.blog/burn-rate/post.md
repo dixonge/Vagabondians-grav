@@ -1,6 +1,6 @@
 ---
 title: Burn Rate
-date: '08/20/2013 10:00am'
+publish_date: '08/20/2013 10:00am'
 author: Glenn
 slug: burn-rate
 image: burn-rate.png

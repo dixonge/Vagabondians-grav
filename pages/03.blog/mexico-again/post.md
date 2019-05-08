@@ -1,6 +1,6 @@
 ---
 title: Welcome to New Mexico (again)
-date: '05/08/2011 10:00am'
+publish_date: '05/08/2011 10:00am'
 author: Glenn
 slug: mexico-again
 image: P1090235-Version-2.jpg

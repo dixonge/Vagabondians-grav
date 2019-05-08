@@ -1,6 +1,6 @@
 ---
 title: Now We're Cooking With Gas
-date: '06/13/2011 10:00am'
+publish_date: '06/13/2011 10:00am'
 author: Glenn
 slug: cooking-gas
 image: valve1.jpg

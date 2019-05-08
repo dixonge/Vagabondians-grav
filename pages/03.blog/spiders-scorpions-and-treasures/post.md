@@ -1,6 +1,6 @@
 ---
 title: Spiders, Scorpions, and Treasures!
-date: '10/05/2012 10:00am'
+publish_date: '10/05/2012 10:00am'
 author: Bryn
 slug: spiders-scorpions-and-treasures
 image: teaser-mexico.jpg

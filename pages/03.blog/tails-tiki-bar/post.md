@@ -1,6 +1,6 @@
 ---
 title: Tails from the Tiki Bar
-date: '05/31/2011 10:00am'
+publish_date: '05/31/2011 10:00am'
 author: Bryn
 slug: tails-tiki-bar
 image: Wolf1.jpg

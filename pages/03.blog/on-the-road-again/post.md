@@ -1,6 +1,6 @@
 ---
 title: On The Road Again
-date: '07/08/2012 10:00am'
+publish_date: '07/08/2012 10:00am'
 author: Glenn
 slug: on-the-road-again
 image: teaser-mexico.jpg

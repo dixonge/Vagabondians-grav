@@ -1,6 +1,6 @@
 ---
 title: Four Foolish Years
-date: '04/01/2014 10:00am'
+publish_date: '04/01/2014 10:00am'
 author: Glenn
 slug: four-foolish-years
 image: four-foolish-years.jpg

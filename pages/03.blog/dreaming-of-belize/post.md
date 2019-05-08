@@ -1,6 +1,6 @@
 ---
 title: Dreaming of Belize
-date: '06/26/2010 10:00am'
+publish_date: '06/26/2010 10:00am'
 author: Glenn
 slug: dreaming-of-belize
 image: belize-1.jpg

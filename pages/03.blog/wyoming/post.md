@@ -1,6 +1,6 @@
 ---
 title: Wyoming
-date: '10/09/2011 10:00am'
+publish_date: '10/09/2011 10:00am'
 author: Glenn
 slug: wyoming
 image: Wyoming.jpg

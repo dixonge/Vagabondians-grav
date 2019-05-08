@@ -1,6 +1,6 @@
 ---
 title: From Steinbeck?
-date: '01/27/2014 10:00am'
+publish_date: '01/27/2014 10:00am'
 author: Glenn
 slug: steinbeck
 image: from-steinbeck.jpg

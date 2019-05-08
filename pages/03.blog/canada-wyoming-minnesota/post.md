@@ -1,6 +1,6 @@
 ---
 title: 'Almost Canada -- Wyoming to Minnesota'
-date: '10/13/2011 10:00am'
+publish_date: '10/13/2011 10:00am'
 author: Glenn
 slug: canada-wyoming-minnesota
 image: WY2MN.jpg

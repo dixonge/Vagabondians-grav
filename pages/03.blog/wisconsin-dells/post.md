@@ -1,6 +1,6 @@
 ---
 title: Wisconsin and the Dells
-date: '11/07/2011 10:00am'
+publish_date: '11/07/2011 10:00am'
 author: Glenn
 slug: wisconsin-dells
 image: Wisconsin.jpg

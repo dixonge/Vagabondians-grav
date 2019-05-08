@@ -1,6 +1,6 @@
 ---
 title: Mt. St. Helens
-date: '08/26/2011 10:00am'
+publish_date: '08/26/2011 10:00am'
 author: Glenn
 slug: mt-st-helens
 image: mtsthelens.jpg

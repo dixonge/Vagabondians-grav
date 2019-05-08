@@ -1,6 +1,6 @@
 ---
 title: 'Orquideas Moxviquil -- Orchid and Botanical Conservatory'
-date: '10/03/2012 10:00am'
+publish_date: '10/03/2012 10:00am'
 author: Bryn
 slug: orquideas-moxviquil-orchid-and-botanical-conservatory
 image: teaser-mexico.jpg

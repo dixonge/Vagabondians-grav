@@ -1,6 +1,6 @@
 ---
 title: 'The Vagabondians Have Landed'
-date: '11/22/2014 10:00am'
+publish_date: '11/22/2014 10:00am'
 author: Glenn
 Permalink: /vagabondians-landed/
 category: Mexico

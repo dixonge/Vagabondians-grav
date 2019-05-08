@@ -1,6 +1,6 @@
 ---
 title: 'Jungle Ancients:  Yaxchilan, Bonampak'
-date: '01/05/2013 10:00am'
+publish_date: '01/05/2013 10:00am'
 author: Bryn
 slug: jungle-ancients-yaxchilan-bonampak
 image: teaser-mexico.jpg

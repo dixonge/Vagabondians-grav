@@ -1,6 +1,6 @@
 ---
 title: Puerto Escondido
-date: '08/25/2012 10:00am'
+publish_date: '08/25/2012 10:00am'
 author: Bryn
 slug: puerto-escondido-2
 image: teaser-mexico.jpg

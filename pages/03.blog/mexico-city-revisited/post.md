@@ -1,6 +1,6 @@
 ---
 title: Mexico City Revisited
-date: '08/07/2012 10:00am'
+publish_date: '08/07/2012 10:00am'
 author: Bryn
 slug: mexico-city-revisited
 image: teaser-mexico.jpg

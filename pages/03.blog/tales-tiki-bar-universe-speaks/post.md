@@ -1,6 +1,6 @@
 ---
 title: 'Tales from the Tiki Bar:  The Universe Speaks!'
-date: '07/03/2011 10:00am'
+publish_date: '07/03/2011 10:00am'
 author: Bryn
 slug: tales-tiki-bar-universe-speaks
 image: universe.jpg

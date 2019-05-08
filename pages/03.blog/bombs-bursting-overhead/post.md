@@ -1,6 +1,6 @@
 ---
 title: Bombs Bursting Overhead
-date: '12/25/2012 10:00am'
+publish_date: '12/25/2012 10:00am'
 author: Bryn
 slug: bombs-bursting-overhead
 image: teaser-mexico.jpg 

@@ -1,6 +1,6 @@
 ---
 title: 'The Organic Tianguis -- we finally made it!'
-date: '05/10/2014 10:00am'
+publish_date: '05/10/2014 10:00am'
 author: Bryn
 slug: organic-tianguis-finally
 image: tianguis.jpg

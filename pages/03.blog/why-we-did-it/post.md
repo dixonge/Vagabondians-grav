@@ -1,6 +1,6 @@
 ---
 title: Why We Did It
-date: '04/16/2011 10:00am'
+publish_date: '04/16/2011 10:00am'
 author: Glenn
 slug: why-we-did-it
 image: P1000564.jpg

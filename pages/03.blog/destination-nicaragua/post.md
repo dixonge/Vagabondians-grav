@@ -1,6 +1,6 @@
 ---
 title: 'Destination: Nicaragua'
-date: '06/12/2013 10:00am'
+publish_date: '06/12/2013 10:00am'
 author: Glenn
 slug: destination-nicaragua
 image: nicaragua.png

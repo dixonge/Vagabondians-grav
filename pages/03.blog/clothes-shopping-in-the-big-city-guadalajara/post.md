@@ -1,6 +1,6 @@
 ---
 title: 'Clothes Shopping in the Big City -- Guadalajara, Jalisco, MX'
-date: '06/17/2012 10:00am'
+publish_date: '06/17/2012 10:00am'
 author: Bryn
 slug: clothes-shopping-in-the-big-city-guadalajara
 image: shopping.jpg

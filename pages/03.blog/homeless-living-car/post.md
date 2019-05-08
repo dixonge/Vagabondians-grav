@@ -1,6 +1,6 @@
 ---
 title: We Are Homeless and Living in our Car
-date: '04/01/2011 10:00am'
+publish_date: '04/01/2011 10:00am'
 author: Glenn
 slug: homeless-living-car
 image: P1080519.jpg

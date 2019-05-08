@@ -1,6 +1,6 @@
 ---
 title: 'MY TIKI BAR KITCHEN -- 2'
-date: '06/23/2012 10:00am'
+publish_date: '06/23/2012 10:00am'
 author: Bryn
 slug: my-tiki-bar-kitchen-2
 image: shopping-mexico.jpg

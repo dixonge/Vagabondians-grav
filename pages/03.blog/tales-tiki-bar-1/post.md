@@ -1,6 +1,6 @@
 ---
 title: 'Tales from the Tiki Bar #1'
-date: '04/29/2011 10:00am'
+publish_date: '04/29/2011 10:00am'
 author: Bryn
 slug: tales-tiki-bar-1
 image: P1080954.jpg

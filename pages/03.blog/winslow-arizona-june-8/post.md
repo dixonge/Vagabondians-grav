@@ -1,6 +1,6 @@
 ---
 title: 'Winslow, Arizona -- June 8'
-date: '06/11/2011 10:00am'
+publish_date: '06/11/2011 10:00am'
 author: Glenn
 slug: winslow-arizona-june-8
 image: WinslowHeader.jpg

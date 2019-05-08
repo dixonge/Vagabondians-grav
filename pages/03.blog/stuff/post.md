@@ -1,6 +1,6 @@
 ---
 title: Stuff
-date: '07/03/2010 10:00am'
+publish_date: '07/03/2010 10:00am'
 author: Glenn
 slug: stuff
 image: hoarder-1.jpg

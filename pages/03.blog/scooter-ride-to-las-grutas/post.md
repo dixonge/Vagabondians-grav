@@ -1,6 +1,6 @@
 ---
 title: Scooter Ride to Las Grutas
-date: '08/14/2012 10:00am'
+publish_date: '08/14/2012 10:00am'
 author: Bryn
 slug: scooter-ride-to-las-grutas
 image: teaser-mexico.jpg

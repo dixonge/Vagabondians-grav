@@ -1,6 +1,6 @@
 ---
 title: Catching Up
-date: '06/08/2011 10:00am'
+publish_date: '06/08/2011 10:00am'
 author: Glenn
 slug: catching
 image: vagabond.jpg

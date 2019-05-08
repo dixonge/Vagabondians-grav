@@ -1,6 +1,6 @@
 ---
 title: 'Musings On Being Homeless after 7 Months'
-date: '01/04/2012 10:00am'
+publish_date: '01/04/2012 10:00am'
 author: Bryn
 slug: musings-homeless
 image: stuffed-garage.jpeg

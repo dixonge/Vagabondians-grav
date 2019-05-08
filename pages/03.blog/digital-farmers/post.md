@@ -1,6 +1,6 @@
 ---
 title: Digital Farmers
-date: '02/08/2011 10:00am'
+publish_date: '02/08/2011 10:00am'
 author: Glenn
 slug: digital-farmers
 image: digitalfarmer.jpg

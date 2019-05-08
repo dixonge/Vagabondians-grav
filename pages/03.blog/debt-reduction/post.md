@@ -1,6 +1,6 @@
 ---
 title: Debt Reduction
-date: '11/13/2010 10:00am'
+publish_date: '11/13/2010 10:00am'
 author: Glenn
 slug: debt-reduction
 image: debt-1.jpg

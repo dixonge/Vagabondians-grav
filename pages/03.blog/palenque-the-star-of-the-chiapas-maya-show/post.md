@@ -1,6 +1,6 @@
 ---
 title: 'Palenque -- the Star of the Chiapas Maya Show'
-date: '01/10/2013 10:00am'
+publish_date: '01/10/2013 10:00am'
 author: Bryn
 slug: palenque-the-star-of-the-chiapas-maya-show
 image: palenque-star.jpg

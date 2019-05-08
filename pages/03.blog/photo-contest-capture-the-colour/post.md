@@ -1,6 +1,6 @@
 ---
 title: 'Photo Contest: Capture the Colour'
-date: '08/01/2012 10:00am'
+publish_date: '08/01/2012 10:00am'
 author: Glenn
 slug: photo-contest-capture-the-colour
 image: capture-color.jpg

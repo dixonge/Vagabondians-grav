@@ -1,6 +1,6 @@
 ---
 title: The Price of Free Tickets
-date: '06/30/2013 10:00am'
+publish_date: '06/30/2013 10:00am'
 author: Glenn
 slug: the-price-of-free-tickets
 image: price-of-free.jpg

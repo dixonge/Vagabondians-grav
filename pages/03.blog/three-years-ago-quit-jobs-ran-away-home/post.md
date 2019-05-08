@@ -1,6 +1,6 @@
 ---
 title: Three Years Ago We Quit Our Jobs And Ran Away From Home
-date: '03/25/2014 10:00am'
+publish_date: '03/25/2014 10:00am'
 author: Glenn
 slug: three-years-ago-quit-jobs-ran-away-home
 image: three-years-teaser.jpg

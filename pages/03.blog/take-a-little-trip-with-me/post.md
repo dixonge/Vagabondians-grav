@@ -1,6 +1,6 @@
 ---
 title: Take a Little Trip with Me
-date: '12/26/2012 10:00am'
+publish_date: '12/26/2012 10:00am'
 author: Bryn
 slug: take-a-little-trip-with-me
 image: teaser-mexico.jpg 

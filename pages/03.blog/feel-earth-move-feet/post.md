@@ -1,6 +1,6 @@
 ---
 title: I Feel the Earth ~~ Move ~~ Under My Feet
-date: '04/12/2012 10:00am'
+publish_date: '04/12/2012 10:00am'
 author: Glenn
 slug: feel-earth-move-feet
 image: quakezone1.gif

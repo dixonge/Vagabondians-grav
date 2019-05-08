@@ -1,6 +1,6 @@
 ---
 title: 'Tales from the Tiki Bar:  Awesome People'
-date: '07/10/2011 10:00am'
+publish_date: '07/10/2011 10:00am'
 author: Bryn
 slug: tales-tiki-bar-awesome-people
 image: water.jpg

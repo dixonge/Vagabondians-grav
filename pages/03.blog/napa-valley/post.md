@@ -1,6 +1,6 @@
 ---
 title: Napa Valley
-date: '08/01/2011 10:00am'
+publish_date: '08/01/2011 10:00am'
 author: Glenn
 slug: napa-valley
 image: napavalley.jpg

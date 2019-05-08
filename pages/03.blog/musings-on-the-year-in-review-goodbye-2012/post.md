@@ -1,6 +1,6 @@
 ---
 title: 'Musings on the Year in Review - Goodbye 2012'
-date: '01/03/2013 10:00am'
+publish_date: '01/03/2013 10:00am'
 author: Bryn
 slug: musings-on-the-year-in-review-goodbye-2012
 image: year-in-review.jpg

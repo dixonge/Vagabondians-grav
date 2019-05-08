@@ -1,6 +1,6 @@
 ---
 title: Love Your Enemas
-date: '08/10/2013 10:00am'
+publish_date: '08/10/2013 10:00am'
 author: Glenn
 slug: love-your-enemas
 image: enema.jpg

@@ -1,6 +1,6 @@
 ---
 title: Well We're Leavin' on a Jet Plane…
-date: '02/19/2012 10:00am'
+publish_date: '02/19/2012 10:00am'
 author: Glenn
 slug: leavin-jet-plane
 image: jetplane.jpg

@@ -1,6 +1,6 @@
 ---
 title: Still Homeless, But Living in an SUV
-date: '04/21/2011 10:00am'
+publish_date: '04/21/2011 10:00am'
 author: Glenn
 slug: still-homeless-but-living-in-an-suv
 image: IMG_0366.jpg

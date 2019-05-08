@@ -1,6 +1,6 @@
 ---
 title: Oregon Coast
-date: '08/25/2011 10:00am'
+publish_date: '08/25/2011 10:00am'
 author: Glenn
 slug: oregon-coast
 image: oregoncoast.jpg

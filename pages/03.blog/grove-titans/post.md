@@ -1,6 +1,6 @@
 ---
 title: Grove of Titans
-date: '08/22/2011 10:00am'
+publish_date: '08/22/2011 10:00am'
 author: Glenn
 slug: grove-titans
 image: trees.jpg

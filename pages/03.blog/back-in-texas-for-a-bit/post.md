@@ -1,6 +1,6 @@
 ---
 title: Back in Texas for a Bit
-date: '03/27/2013 10:00am'
+publish_date: '03/27/2013 10:00am'
 author: Glenn
 slug: back-in-texas-for-a-bit
 image: back-in-texas.jpg

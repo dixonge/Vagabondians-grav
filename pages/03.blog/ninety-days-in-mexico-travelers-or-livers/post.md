@@ -1,6 +1,6 @@
 ---
 title: 'Ninety Days In Mexico -- Travelers or Livers?'
-date: '05/15/2012 10:00am'
+publish_date: '05/15/2012 10:00am'
 author: Glenn
 slug: ninety-days-in-mexico-travelers-or-livers
 image: liver.jpg

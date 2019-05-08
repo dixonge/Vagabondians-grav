@@ -1,6 +1,6 @@
 ---
 title: Just a quick update
-date: '05/14/2013 10:00am'
+publish_date: '05/14/2013 10:00am'
 author: Glenn
 slug: just-a-quick-update
 image: quick-update.jpg

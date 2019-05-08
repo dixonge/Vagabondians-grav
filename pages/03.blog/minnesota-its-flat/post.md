@@ -1,6 +1,6 @@
 ---
 title: Minnesota -- It's Flat!
-date: '10/17/2011 10:00am'
+publish_date: '10/17/2011 10:00am'
 author: Glenn
 slug: minnesota-its-flat
 image: MinnesotaFlat.jpg

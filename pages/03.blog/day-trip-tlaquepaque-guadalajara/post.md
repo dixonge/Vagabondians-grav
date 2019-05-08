@@ -1,6 +1,6 @@
 ---
 title: 'Day Trip! Tlaquepaque/Guadalajara'
-date: '04/23/2012 10:00am'
+publish_date: '04/23/2012 10:00am'
 author: Bryn
 slug: day-trip-tlaquepaque-guadalajara
 image: tlaquepaque.jpg

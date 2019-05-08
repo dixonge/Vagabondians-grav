@@ -1,6 +1,6 @@
 ---
 title: 'Tales from the Tiki Bar:  Napa Valley, baby!'
-date: '07/29/2011 10:00am'
+publish_date: '07/29/2011 10:00am'
 author: Bryn
 slug: tales-tiki-bar-napa-baby
 image: napa.jpg

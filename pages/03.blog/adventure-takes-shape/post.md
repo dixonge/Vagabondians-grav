@@ -1,7 +1,7 @@
 ---
 title: 'The Adventure Takes Shape'
 slug: adventure-takes-shape
-date: '03/15/2011 10:00am'
+publish_date: '03/15/2011 10:00am'
 author: Glenn
 image: Road-Trip-2011-Part-1-Google-Maps.jpg
 category: News

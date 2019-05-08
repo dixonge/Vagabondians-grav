@@ -1,6 +1,6 @@
 ---
 title: San Cristobal, Guatemala and … China?
-date: '08/28/2012 10:00am'
+publish_date: '08/28/2012 10:00am'
 author: Glenn
 slug: san-cristobal-guatemala-and-china
 image: shenzhen-night.jpg

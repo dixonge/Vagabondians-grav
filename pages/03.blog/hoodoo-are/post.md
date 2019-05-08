@@ -1,6 +1,6 @@
 ---
 title: Hoodoo You Think You Are?
-date: '06/30/2011 10:00am'
+publish_date: '06/30/2011 10:00am'
 author: Bryn
 slug: hoodoo-are
 image: brycehoodoo.jpg

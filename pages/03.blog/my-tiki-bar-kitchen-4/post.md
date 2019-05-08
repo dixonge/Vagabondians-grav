@@ -1,6 +1,6 @@
 ---
 title: 'My Tiki Bar Kitchen -- 4'
-date: '07/23/2012 10:00am'
+publish_date: '07/23/2012 10:00am'
 author: Bryn
 slug: my-tiki-bar-kitchen-4
 image: teaser-mexico.jpg

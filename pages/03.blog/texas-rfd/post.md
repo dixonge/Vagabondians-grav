@@ -1,6 +1,6 @@
 ---
 title: Anywhere in Texas, RFD
-date: '11/08/2011 10:00am'
+publish_date: '11/08/2011 10:00am'
 author: Glenn
 slug: texas-rfd
 image: texas.jpg

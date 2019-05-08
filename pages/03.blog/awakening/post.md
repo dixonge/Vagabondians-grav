@@ -1,6 +1,6 @@
 ---
 title: Awakening
-date: '07/04/2012 10:00am'
+publish_date: '07/04/2012 10:00am'
 author: Bryn
 slug: awakening
 image: awakening.jpg

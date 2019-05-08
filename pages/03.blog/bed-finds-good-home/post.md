@@ -1,6 +1,6 @@
 ---
 title: Our Bed Finds a Good Home
-date: '01/24/2011 10:00am'
+publish_date: '01/24/2011 10:00am'
 author: Glenn
 slug: bed-finds-good-home
 image: oldbed.jpg

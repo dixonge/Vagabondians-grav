@@ -1,6 +1,6 @@
 ---
 title: 'Hitting Pause on Travel'
-date: '11/27/2015 10:00am'
+publish_date: '11/27/2015 10:00am'
 hide_hypothesis: false
 author: 'Glenn"'
 permalink: /hitting-pause-on-travel/

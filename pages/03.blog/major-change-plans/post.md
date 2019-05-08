@@ -1,6 +1,6 @@
 ---
 title: A Major Change in Plans
-date: '01/14/2011 10:00am'
+publish_date: '01/14/2011 10:00am'
 author: Glenn
 slug: major-change-plans
 image: camping.jpg

@@ -1,6 +1,6 @@
 ---
 title: Happy New Year! Time's A'wastin'!
-date: '12/31/2011 10:00am'
+publish_date: '12/31/2011 10:00am'
 author: Bryn
 slug: happy-year-times-awastin
 image: fireworks.jpeg

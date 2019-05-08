@@ -1,6 +1,6 @@
 ---
 title: Tales from Vagabondia, the Ancient Way
-date: '06/01/2011 10:00am'
+publish_date: '06/01/2011 10:00am'
 author: Bryn
 slug: tales-vagabondia
 image: AncientWay.jpg

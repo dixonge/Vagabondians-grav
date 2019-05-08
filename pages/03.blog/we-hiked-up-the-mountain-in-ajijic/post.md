@@ -1,6 +1,6 @@
 ---
 title: We Hiked up the Mountain in Ajijic
-date: '05/02/2012 10:00am'
+publish_date: '05/02/2012 10:00am'
 author: Glenn
 slug: we-hiked-up-the-mountain-in-ajijic
 image: we-hiked.jpg

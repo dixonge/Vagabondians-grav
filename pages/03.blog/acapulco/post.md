@@ -1,6 +1,6 @@
 ---
 title: Acapulco!
-date: '08/23/2012 10:00am'
+publish_date: '08/23/2012 10:00am'
 slug: acapulco
 author: Bryn
 image: teaser-mexico.jpg

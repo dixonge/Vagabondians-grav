@@ -1,6 +1,6 @@
 ---
 title: My Unsolicited Open Letter to the Class of ________
-date: '06/03/2012 10:00am'
+publish_date: '06/03/2012 10:00am'
 author: Bryn
 slug: my-unsolicited-open-letter-to-the-class-of
 image: flinch.jpg

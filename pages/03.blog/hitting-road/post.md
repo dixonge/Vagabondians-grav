@@ -1,6 +1,6 @@
 ---
 title: Hitting the Road
-date: '04/17/2011 10:00am'
+publish_date: '04/17/2011 10:00am'
 author: Glenn
 slug: hitting-road
 image: LongTimeScreenCap.jpg

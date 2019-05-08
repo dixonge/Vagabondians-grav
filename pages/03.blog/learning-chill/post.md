@@ -1,6 +1,6 @@
 ---
 title: Learning to Chill
-date: '06/01/2011 10:00am'
+publish_date: '06/01/2011 10:00am'
 author: Glenn
 slug: learning-chill
 image: UseExtremeCaution.jpg

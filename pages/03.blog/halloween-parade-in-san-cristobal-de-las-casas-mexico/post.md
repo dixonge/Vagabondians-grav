@@ -1,6 +1,6 @@
 ---
 title: Halloween Parade in San Cristobal de las Casas, Mexico
-date: '01/27/2014 10:00am'
+publish_date: '01/27/2014 10:00am'
 author: Glenn
 slug: halloween-parade-in-san-cristobal-de-las-casas-mexico
 image: halloween-parade.png

@@ -1,6 +1,6 @@
 ---
 title: Thunder! Lightning! Shelf cloud!
-date: '03/26/2014 10:00am'
+publish_date: '03/26/2014 10:00am'
 author: Glenn
 slug: thunder-lightning-shelf-cloud
 image: shelf-cloud.jpg

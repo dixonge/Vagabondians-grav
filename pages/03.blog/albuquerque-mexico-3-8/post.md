@@ -1,7 +1,7 @@
 ---
 title: 'Albuquerque, New Mexico -- May 3-8'
 slug: albuquerque-mexico-3-8
-date: '06/10/2011 10:00am'
+publish_date: '06/10/2011 10:00am'
 author: Glenn
 image: RoxiNewMexico.jpg
 category: 'Six Months'

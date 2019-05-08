@@ -1,6 +1,6 @@
 ---
 title: Visit to Guatemala
-date: '08/30/2012 10:00am'
+publish_date: '08/30/2012 10:00am'
 author: Bryn
 slug: visit-to-guatemala
 image: guatemala.jpg

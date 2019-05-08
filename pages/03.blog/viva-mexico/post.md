@@ -1,6 +1,6 @@
 ---
 title: Viva Mexico!
-date: '01/26/2012 10:00am'
+publish_date: '01/26/2012 10:00am'
 author: Glenn
 slug: viva-mexico
 image: mexico.jpg

@@ -1,6 +1,6 @@
 ---
 title: 'Big Bend National Park -- 1991'
-date: '01/27/2014 10:00am'
+publish_date: '01/27/2014 10:00am'
 author: Glenn
 slug: big-bend-national-park-1991
 category: Miscellaneous

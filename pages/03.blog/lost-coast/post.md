@@ -1,6 +1,6 @@
 ---
 title: The Lost Coast
-date: '08/13/2011 10:00am'
+publish_date: '08/13/2011 10:00am'
 author: Glenn
 slug: lost-coast
 image: LostCoast.jpg
