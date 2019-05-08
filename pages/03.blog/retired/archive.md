@@ -1,6 +1,5 @@
 ---
 title: Retired!
-date: '05/07/2019 5:00pm'
 publish_date: '08-05-2019 12:14'
 hide_hypothesis: false
 slug: retired
