@@ -1,13 +1,12 @@
 ---
 title: Retired!
-date: 05/07/2019 5:00pm
-author: Glenn
+date: '05/07/2019 5:00pm'
+hide_hypothesis: false
 slug: retired
+author: Glenn
 image: retired.jpg
-dsq_thread_id:
 category: Mexico
 tags: zacatecas
-hide_hypothesis: false
 ---
 
 OK, this is old news for those of you who are connected with us on social media, but in finally catching up on the blog, let's make it official. Glenn finished a two-year stint in Austin in 2017. By the end of August we were back in Mexico as officially retired people, and by October we were officially pensioners. Pensionados, or as they say in Mexico, Jubilados. Yes, we are quite jubilant!
