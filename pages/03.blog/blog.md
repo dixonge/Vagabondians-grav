@@ -5,7 +5,7 @@ content:
         - '@self.children'
     limit: 8
     order:
-        by: date
+        by: folder
         dir: desc
     pagination: true
     url_taxonomy_filters: true
@@ -16,4 +16,11 @@ feed:
     description: 'Vagabondians - Escape Normal, Explore Your World'
     limit: 3
 pagination: true
+primaryImage:
+    user/pages/03.blog/background-op.jpg:
+        name: background-op.jpg
+        type: image/jpeg
+        size: 392142
+        path: user/pages/03.blog/background-op.jpg
 ---
+
