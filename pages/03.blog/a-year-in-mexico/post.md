@@ -1,6 +1,6 @@
 ---
 title: 'A Year In Mexico'
-date: '02/24/2013 10:00am'
+publish_date: '02/24/2013 10:00am'
 slug: a-year-in-mexico
 author: Glenn
 image: La-Pochota.jpg
