@@ -1,0 +1,13 @@
+{
+    "sshfs.configs": [
+        {
+            "host": "167.114.11.193",
+            "label": "vagabondians",
+            "name": "vagabondians",
+            "password": "Wwalthlaosp!1",
+            "port": 60504,
+            "root": "/public_html/vagabondians.com",
+            "username": "mmgadrwq"
+        }
+    ]
+}
