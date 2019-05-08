@@ -1,7 +1,8 @@
 ---
-title: Hitting Pause on Travel
+title: 'Hitting Pause on Travel'
 date: '11/27/2015 10:00am'
-author: Glenn"
+hide_hypothesis: false
+author: 'Glenn"'
 permalink: /hitting-pause-on-travel/
 category: News
 image: 25years.jpg
